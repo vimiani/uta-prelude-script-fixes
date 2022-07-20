@@ -58,7 +58,7 @@ They're gluttonous creatures that live\nin the forest. Sometimes they act like \
 10_34_22 battle results
 
 10_35_00 after
-When the field was ruined, I was worried\nbut with this harvest,\nno one should go hungry. > When the field was ruined, I was worried\nbut this harvest should make it\nso no one will go hungry.
+When the field was ruined, I was worried\nbut with this harvest,\nno one should go hungry. > I was worried when the field was ruined\nbut this harvest should make it\nso no one will go hungry.
 
 10_36_00 nuwangi
 
