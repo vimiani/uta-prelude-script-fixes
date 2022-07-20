@@ -1,0 +1,260 @@
+10_00_00: opening
+Um... It's OK... > It'll be OK...
+So please don't worry... Go to sleep... > Please don't worry... Go back to sleep...
+O-Oh... It's going to sting a little \nsince I'm washing your wounds. > It's going to sting a little \nsince I'm washing your wounds.
+The... pain... > Ow...
+...Why...? U-Um, you really can't move yet. > ...How...? U-Um, you really shouldn't move yet.
+I didn't want to think about that quite\nyet, but she went ahead and bluntly\nasked me anyway... > I didn't want to think about that quite\nyet, but she went ahead and said\nit anyway...
+*Did she say... Hakuowlo? > Hakuowlo... is it?
+
+00_00_02: first choice
+
+00_00_03: first choice
+It suddenly started shaking,\nand then the house collapsed. > Ugh, I can't believe a little tremor \ntore the whole house down.
+There's a hint of teasing in her voice, too. > There's a hint of teasing in her smile, too.
+
+00_00_04: first choice
+Did this used to be a field...? Were \npeople trying to grow something here?> Did this used to be a field...? It seems like \nthey were trying to make one here at least.
+It's pretty worn out, for the most part.\nI also see signs of the soil being\nturned over throughout. > It's mostly been weathered away, but \nI can see signs of the soil being\nturned over throughout.
+
+10_07_00: dinner
+My...? > For me...?
+
+02_01_01: second choice
+She's staring at me from a hiding place... > She's staring at me and trying to hide...
+
+02_01_02: second choice
+
+00_01_03: second choice
+I'm sorry. It's because of what I said\nthat all of this is happening... > I'm sorry. You all have to work so hard \nbecause of my little suggestion...
+
+10_15_00: forest gathering
+Great, I was about to go past, wasn't I? > Thanks. I was about to go past it, wasn't I?
+Haha, well, it'll be okay. We got what\nwe came for, so let her come down at\nher own pace. > Haha, well, it'll be okay. Looks like she got\nwhat she wanted, so let her come\ndown at her own pace.
+
+02_01_03: third choice
+
+00_01_01: third choice
+
+00_01_06: third choice
+
+02_01_04: third choice
+
+10_25_00: night
+And I'm sure she's been denying for\nover a decade that she's at an age\nwhere we should be worrying about her. > And it's not like she's at the age\where we need to worry about her. Well,\nmaybe if she was a decade younger...
+However, if she heard me say that,\nshe'd probably kill me. > She'd definitely kill me if she heard\nme say that.
+
+10_31_00 farm
+Yeah, I didn't do anything. I only told\nthem to do this and that. This is the fruit of their labor. > Yeah, I didn't do anything. I only told\nthem what to do. This is the fruit of their labor.
+Grr... They...! > Grr... Those stinkin'...!
+They're gluttonous creatures that live\nin the forest. Sometimes they act like \nthat there, too. It bothers us, but... > They're gluttonous creatures that live\nin the forest. They usually make a \nmess of the forest, which is already a pain...
+
+10_32_00 prebattle
+
+10_33_21 battle
+
+10_34_00 aftermath
+
+10_34_22 battle results
+
+10_35_00 after
+When the field was ruined, I was worried\nbut with this harvest,\nno one should go hungry. > When the field was ruined, I was worried\nbut this harvest should make it\nso no one will go hungry.
+
+10_36_00 nuwangi
+
+10_40_00 honey
+Aruruu loves honey. Even if I tell her \nnot to do it, she doesn't listen. It's \nso annoying. > Aruruu loves honey. Even if I tell her \nnot to do it, she doesn't listen. It's \nhonestly troubling.
+...you're pretty... determined. > ...you're pretty... tomboyish.
+
+01_01_01 fourth choice
+Wait... Until just recently, weren't you\nhere visiting Grandma once a week? > Wait... You've been coming weekly for a\nwhile now. Have you not met with Grandma?
+
+01_01_04 fourth choice
+
+01_01_07 fourth choice
+
+01_01_02 fourth choice
+
+10_51_00 daddy
+
+10_52_00 yuzuha
+"Following us"? I can't believe he's the\ntraveling with Tuskur... >"Following us"? Don't tell me he's the\none who took Tuskur...
+Yuzuha turned out to be surprisingly good conversation. > Yuzuha turned out to be a surprisingly good conversator.
+That's gotta be the reason... > There's definitely something up with them.
+Hair...? Oh, you mean on THIS pinky.\nI thought you were talking about my\nother one... > Hair...? Oh, you mean this thing.
+
+10_53_00 immigrants
+You say that, but... how do you know?\nYou didn't even tell us you knew how\nto make it until just now. > You say that, but... how do you know?\nI thought the method for making it was\nsupposed to be some trade secret.
+
+10_61_00 yuzuha 2
+They seem to deeply care about her,\nbut if I asked if they were her\nfriends, they'd probably say no. > They seem to deeply care about her,\nbut I still don't think you'd call themr\nfriends exactly.
+
+10_71_00 anger mutikapa
+
+10_80_00 mutikapa night
+Eruruu might be absolutely right,\nbut I can't just leave people to die. > You might be absolutely right, but\nI can't just leave people to die.
+
+10_81_00 mutikapa weakness
+What the--it's real stubborn. If you \ninsist, I gotta try this. > Being real confident there. If you \ninsist, I gotta try this.
+
+10_82_00 mutikapa chase
+
+10_83_70 mutikapa fight
+
+10_83_88 mutikapa fight
+
+10_87_00 aftermath
+
+02_01_06 milk
+
+10_91_00 sasante
+Well, why are you here? \nUseless, good-for-nothing... > Well, why are you here? \nProbably another useless demand...
+That is why. > It'd be careless if we went against them.
+
+11_00_00 food
+Now, let's stop dawdling. > Stop dawdling and get to hauling it out.
+Hey, I know you're sleepy, but hold on.\nIt's time to put the children to bed. > Hey, you shouldn't have forced yourself if you're this tired.\nIt's time to put the children to bed.
+
+00_01_05 fifth choice
+
+00_01_02 fifth choice
+
+11_11_00 sick
+
+11_20_00 benawi
+
+11_30_00 death
+It's not what you think, Eruruu... It \nwasn't me... On their own... Th-They \njust did it on their own...!! > It's not what you think, Eruruu... It \nwasn't me... On her own... Sh-She  \njust jumped out on her own...!! 
+
+11_31_00 tuskur
+
+11_32_00 overthrow
+
+11_36_00 invade
+
+11_37_01 battle
+
+11_37_02 battle
+
+11_38_00 aftermath
+
+11_40_00 fort
+
+20_10_00 Inkalla
+
+20_11_00 sixth choice
+I'm going to let her do as she wants. > Let her have this bit of selfishness.
+
+20_12_00 sixth choice
+
+20_13_00 sixth choice
+
+20_15_00 village
+
+20_16_03 battle
+
+20_16_21 battle
+
+20_17_00 aftermath
+
+20_19_00 Warmaster
+Actually, it's... > Then that was your...
+
+20_20_00  Chikinaro
+Well, I heard the trading's good here. > I'm telling you, I've stayed here before.
+The guard on duty changed, and I \nthought perhaps the new one wouldn't \nknow about me... > The guard on duty had changed, so\nmaybe he wasn't informed who I was...
+That's why. If I could only come \ninside and sleep in a warm bed... > So, I thought if I just got inside I'd be given\na warm bed...
+...Besides, didn't all of you seize \nthis place? > That's when I found out that you all\nhad seized this area.
+...Um, well, it's because-- > So he says.
+
+20_21_00 Plan
+
+20_22_00 Decoy
+
+20_23_02 battle
+
+20_23_21 battle
+
+20_23_22 battle
+
+20_24_00 aftermath
+
+20_26_00 Jailed
+
+20_27_00 Army
+First, the sixth group, maneuver from\nthe west gate, and attack them from\nbehind. > First through sixth groups, maneuver from\nthe west gate, and attack them from\nbehind.
+
+20_28_01 battle
+
+20_28_04 battle
+
+20_28_21 battle
+
+20_30_00 aftermath
+
+20_31_00 free
+
+20_32_00 kurou
+
+20_33_02 battle
+
+20_34_00 aftermath
+
+20_46_00 showdown
+
+20_47_03 battle
+
+20_48_00 aftermath
+
+20_50_00 owlo
+
+30_10_00 Onkamiyamukai
+
+30_11_00 new responsibilities
+
+30_12_00 departure
+Aruruu, don't go around eating sweets \nand getting sick, OK? > Aruruu, don't get sick from eating anything weird, OK?
+
+01_03_02 new room
+I asked Aruruu to bring it here. > I asked for it to be brought here.
+
+30_21_00 emissary
+
+30_22_00 camyu
+Phew, I feel better now... > Phew, that should do it...
+
+01_03_03 seventh choice
+
+02_03_01 seventh choice
+
+02_03_02 seventh choice
+
+05_03_01 seventh choice
+
+30_31_00 breakfast
+
+00_03_01 haircut
+
+30_41_00 men
+
+02_00_10 aruruu
+
+30_51_00 Shikeripechim
+"In a generation's time, he has unified \ncountless tribes and proclaimed himself \nowlo, intending to dominate over all." > "Naming himself the holy emperor, he has\nunified countless tribes and intends\nfor more in just his generation."
+As long as our opponent calls himself\nan owlo, there's no doubt we'll be\nattacked if we refuse his request. > As long as our opponent calls himself\nan emperor, there's no doubt we'll be\nattacked if we refuse his request.
+
+30_52_00 Niwe
+Hahahaha, even then, he was calm and \ncollected. He interests me. > Hahahaha, so he chose to hide his\ncards, eh? I misjudged him.
+
+30_53_00 plan
+
+30_54_00 fire
+I-I'm sorry, but... why don't we have \nany orders? > I-I'm sorry, but... why won't you tell \nus what's going on?
+Even when we ask someone else, they \nwon't give us any either... > Even when we ask someone else, they \nwon't tell us anything...
+
+30_56_02 battle
+
+30_57_00 aftermath
+03_00_07: cut scene?
+a sword that never breaks, never bends, and never loses its edge.
+Hitanunta Ohn Riyaak
