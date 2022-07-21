@@ -79,6 +79,8 @@ Wait... Until just recently, weren't you\nhere visiting Grandma once a week? > W
 
 10_52_00 yuzuha
 "Following us"? I can't believe he's the\ntraveling with Tuskur... >"Following us"? Don't tell me he's the\none who took Tuskur...
+Mm. Then, I'll be off. > Mm. Please wait a moment.
+Wha--\nLeaving them alone together to talk!? \nWhat do you mean by that!? > Wha--\nLeaving them alone together to talk!? \nWhat is the meaning of this!?
 Yuzuha turned out to be surprisingly good conversation. > Yuzuha turned out to be a surprisingly good conversator.
 That's gotta be the reason... > There's definitely something up with them.
 Hair...? Oh, you mean on THIS pinky.\nI thought you were talking about my\nother one... > Hair...? Oh, you mean this thing.
@@ -102,6 +104,8 @@ What the--it's real stubborn. If you \ninsist, I gotta try this. > Being real co
 10_83_70 mutikapa fight
 
 10_83_88 mutikapa fight
+
+10_84_00 same as above
 
 10_87_00 aftermath
 
@@ -139,6 +143,7 @@ It's not what you think, Eruruu... It \nwasn't me... On their own... Th-They \nj
 11_38_00 aftermath
 
 11_40_00 fort
+Should I say it's nice to meet you \nor...? I am greatly indebted to \nLady Tuskur. > I suppose this is the first time\we've met. I am greatly indebted to\nLady Tuskur.
 
 20_10_00 Inkalla
 
@@ -146,6 +151,7 @@ It's not what you think, Eruruu... It \nwasn't me... On their own... Th-They \nj
 I'm going to let her do as she wants. > Let her have this bit of selfishness.
 
 20_12_00 sixth choice
+...and delightful girl... > ...and someone he loves watching...
 
 20_13_00 sixth choice
 
@@ -156,6 +162,7 @@ I'm going to let her do as she wants. > Let her have this bit of selfishness.
 20_16_21 battle
 
 20_17_00 aftermath
+How dare...? How dare they...? With that \nkind of behavior...! > How dare...? How dare they!
 
 20_19_00 Warmaster
 Actually, it's... > Then that was your...
@@ -174,6 +181,7 @@ That's why. If I could only come \ninside and sleep in a warm bed... > So, I tho
 20_23_02 battle
 
 20_23_21 battle
+...You should be fine. > ...Very well.
 
 20_23_22 battle
 
