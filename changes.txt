@@ -149,11 +149,13 @@ Should I say it's nice to meet you \nor...? I am greatly indebted to \nLady Tusk
 
 20_11_00 sixth choice
 I'm going to let her do as she wants. > Let her have this bit of selfishness.
+There we go! > Off we go!
 
 20_12_00 sixth choice
 ...and delightful girl... > ...and someone he loves watching...
 
 20_13_00 sixth choice
+What was that? It sounded like a\nthread was cut... > What was that? It sounded like a\nsomething snapped...
 
 20_15_00 village
 
@@ -248,7 +250,7 @@ Phew, I feel better now... > Phew, that should do it...
 02_00_10 aruruu
 
 30_51_00 Shikeripechim
-"In a generation's time, he has unified \ncountless tribes and proclaimed himself \nowlo, intending to dominate over all." > "Naming himself the holy emperor, he has\nunified countless tribes and intends\nfor more in just his generation."
+"In a generation's time, he has unified \ncountless tribes and proclaimed himself \nowlo, intending to dominate over all." > "Naming himself the holy emperor, he has\nunified countless tribes and aims for\nthe whole land in just his generation."
 As long as our opponent calls himself\nan owlo, there's no doubt we'll be\nattacked if we refuse his request. > As long as our opponent calls himself\nan emperor, there's no doubt we'll be\nattacked if we refuse his request.
 
 30_52_00 Niwe
@@ -258,11 +260,25 @@ Hahahaha, even then, he was calm and \ncollected. He interests me. > Hahahaha, s
 
 30_54_00 fire
 I-I'm sorry, but... why don't we have \nany orders? > I-I'm sorry, but... why won't you tell \nus what's going on?
+Anything you want us to do now, or \nmaybe later... > I can't tell what's happening, or what's\nabout the happen...
 Even when we ask someone else, they \nwon't give us any either... > Even when we ask someone else, they \nwon't tell us anything...
 
 30_56_02 battle
 
 30_57_00 aftermath
+
+00_03_02 eight choice
+
+30_61_00 kuuya
+"Our position was weak. It is as simple as that." > "As such, we've had a rough standing.\n No, that's putting it lightly..."
+
+30_62_00 feathers
+
+00_03_04 eight choice
+
+04_00_00 eight choice
+
+00_03_07 eight choice
 03_00_07: cut scene?
 a sword that never breaks, never bends, and never loses its edge.
-Hitanunta Ohn Riyaak
+Hitanunta Ohn Riyaak Proxy Grand Vizier
