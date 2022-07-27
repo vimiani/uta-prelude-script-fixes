@@ -427,7 +427,32 @@ It was feared that she had become \ntoo strong, and she was sent to a \nbattlefi
 
 40_89_00 promise
 
-40_90_00
+40_90_00 
+
+41_01_00 drunk
+'Course I do. You opposed the last imperial court... You made it to the rank of general after so many battles. > 'Course I do. You're notable even among the strongest of this country. You made it to the rank of general after so many battles.
+
+42_01_00 thief
+
+42_02_02 battle
+
+42_03_00 aftermath
+
+43_01_00 kamuchataal
+
+43_02_03 battle
+
+43_02_04 battle
+
+43_03_00 aftermath
+
+44_01_00 villa
+
+44_02_03 battle
+
+44_03_00 aftermath
+
+45_01_00 
 03_00_07: cut scene?
 a sword that never breaks, never bends, and never loses its edge.
 Hitanunta Ohn Riyaak Proxy Grand Vizier
