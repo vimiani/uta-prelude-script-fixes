@@ -216,7 +216,7 @@ First, the sixth group, maneuver from\nthe west gate, and attack them from\nbehi
 
 20_48_00 aftermath
 
-20_50_00 owlo
+20_50_00 dishonor
 
 30_10_00 Onkamiyamukai
 
@@ -453,6 +453,93 @@ It was feared that she had become \ntoo strong, and she was sent to a \nbattlefi
 44_03_00 aftermath
 
 45_01_00 
+
+50_01_00 gachatara
+
+04_00_05 bloood
+
+05_00_56 eleventh choice
+
+07_05_01 eleventh choice
+
+07_05_02 eleventh choice
+
+03_00_01 eleventh choice
+
+07_00_13 eleventh choice
+
+50_12_00 sulking tiger
+
+50_13_00 story
+
+00_05_03 eleventh choice
+
+03_00_02 eleventh choice
+
+00_05_07 eleventh choice
+
+04_00_06 eleventh choice
+
+50_21_00 Noseshechika
+What about that thing I gave to that \none woman? > What about that thing the one woman wanted?
+Women like that... \nHmph, they're pretty cute. > Can't leave her waiting. Hmph, they're\ncute when they ask for things.
+
+50_22_00 strategy
+
+50_31_00 attack
+
+50_35_00 keke
+
+50_36_00 rain
+
+50_37_21 battle
+
+50_38_00 aftermath
+
+50_40_00 war
+
+50_41_00 ok
+
+50_42_02 battle
+
+50_42_21 confrontation
+
+50_43_02 battle
+
+50_44_00 aftermath
+
+04_00_07 suck
+
+00_05_01 twealth choice
+
+03_00_03 twealth choice
+
+07_00_14 twealth choice
+
+00_05_03 twealth choice
+
+60_11_00 ponahoid
+
+07_00_15 sex
+
+05_00_57 twealth choice
+
+03_00_04 twealth choice
+
+60_21_00 sakuya
+She starts to retreat, babbling the \nentire time. > She's trying to get away, but can\n barely keep her composure...
+
+60_22_00 abh-kamu
+
+60_23_00 report
+
+03_00_5 milk
+
+60_31_00 mud
+
+60_32_00 talks
+00_99_01 battle event
+No... I'll wait > No... Deal with it.
 03_00_07: cut scene?
 a sword that never breaks, never bends, and never loses its edge.
 Hitanunta Ohn Riyaak Proxy Grand Vizier
