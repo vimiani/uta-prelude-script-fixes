@@ -510,21 +510,21 @@ Women like that... \nHmph, they're pretty cute. > Can't leave her waiting. Hmph,
 
 04_00_07 suck
 
-00_05_01 twealth choice
+00_05_01 twelfth choice
 
-03_00_03 twealth choice
+03_00_03 twelfth choice
 
-07_00_14 twealth choice
+07_00_14 twelfth choice
 
-00_05_03 twealth choice
+00_05_05 twelfth choice
 
 60_11_00 ponahoid
 
 07_00_15 sex
 
-05_00_57 twealth choice
+05_00_57 twelfth choice
 
-03_00_04 twealth choice
+03_00_04 twelfth choice
 
 60_21_00 sakuya
 She starts to retreat, babbling the \nentire time. > She's trying to get away, but can\n barely keep her composure...
@@ -538,8 +538,153 @@ She starts to retreat, babbling the \nentire time. > She's trying to get away, b
 60_31_00 mud
 
 60_32_00 talks
+
+03_00_06 twelfth choice 
+
+05_00_58 twelfth choice
+
+04_00_09 twelfth choice
+
+00_07_03 twelfth choice
+
+70_11_00 kunnekamun
+
+03_00_08 baby
+About that child... Fumirul. Her parents\nand one of the tribes are coming\ntomorrow, right? > About that child... Fumirul. Her parents\nand their tribes are coming tomorrow, right?
+
+70_21_00 kuuu
+
+70_32_00 invasion
+
+70_33_00 aaaa
+
+03_00_09 orphan
+
+70_41_00 yes
+
+70_42_00 death
+Even though we have the power to make \neveryone one of us if we felt like it. > Even though we have the power to\ncontrol them all if we felt like it.
+
+70_43_00 seal
+"All in good time..." > "They've arrived..."
+
+70_51_00 kunnn
+
+70_52_00 benny
+
+70_53_02 battle
+
+70_54_00 aftermath
+
+70_55_60 arurr
+
+70_56_00 charizard
+
+70_57_00 fossil
+
+05_00_60 sex
+
+80_11_00 defect
+
+80_12_00 wife
+
+80_13_00 island
+
+80_14_00 lava
+Mukkuru doesn't like it, too. > You can't come in.
+
+80_15_02 battle
+
+80_15_21 battle
+
+80_16_00 aftermath
+
+80_18_00 oruyankuru
+
+09_08_01 sak
+
+80_22_00 wow
+
+80_23_02 battle
+
+80_23_03 battle
+
+80_26_00 mask
+
+80_27_02 battle
+
+80_27_03 battle
+
+80_27_21 dii
+
+80_28_00 aftermath
+
+80_30_00 abhhu
+
+80_31_02 battle
+
+80_33_00 aftermath
+"OK, OK, I'll tell you. Well, to your \ncute toy." > "OK, OK, I'll tell you. You cute little\n figurehead.
+I do not know if I can, but I shall \nattempt to transfer the force field to \nits original location. > I do not know if I can, but I shall \nattempt to reverse this force field and\nsend us to our original location. 
+Our eyes meet... > Her gaze lands... on the one she had called for...
+
+80_34_00 bab
+Oh... It's so quiet now that the \nearthquake stopped... > Oh... The earthquake stopped...
+My brother's just impatient... > My brother must've felt stressed.
+
+80_35_00 sad
+
+08_00_50 auu
+
+90_11_00 oh no
+She is ahead, in its depths. At the \nentrance to the On-Riyahku, which only \nthe royal family knows of. > She is ahead, in its depths. There's a\nRiyaak gate, which only the\nroyal family knows of.
+
+90_12_00 sloome
+
+90_14_00 copy
+
+90_15_02 battle
+
+90_16_00 aftermath
+
+90_18_00 past
+
+90_19_00 confront
+
+90_20_02 battle
+
+90_20_21 battle
+
+90_20_22 hauenpa
+
+90_21_00 aftermath
+
+90_23_00 goddd
+
+98_24_00 name
+
+98_25_02 battle
+
+90_25_21 diiii
+
+98_25_03 battle
+
+98_26_00 aftermath
+
+98_30_00 Uitsualnemetia
+
+98_31_02 battle
+
+98_32_01 battle
+
+98_32_02 battle
+
+98_32_00 sleep
+
+98_41_00 after
+
 00_99_01 battle event
 No... I'll wait > No... Deal with it.
 03_00_07: cut scene?
 a sword that never breaks, never bends, and never loses its edge.
-Hitanunta Ohn Riyaak Proxy Grand Vizier
+Hitanunta Ohn Riyaak Proxy Grand Vizier land where god sleeps
