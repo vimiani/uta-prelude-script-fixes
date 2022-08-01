@@ -15,4 +15,4 @@ Some of the major fixes to conistency are:
 
 -Conversely the term 天子 (tenshi) is rendered as owlo officially but this was translated as Divine Scion in the Mask games. Scion doesn't make sense in the context it's used in here however, so I have opted for Divine Emperor.
 
--Reveresed Kuuya's first and last name back to the original.
+-Reversed Kuuya's first and last name back to the original.
