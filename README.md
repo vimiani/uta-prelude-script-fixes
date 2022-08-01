@@ -11,7 +11,7 @@ Some of the major fixes to conistency are:
 
 -Grand minister > Grand Vizier
 
--Removed owlo's being referred to as emperors. This doesn't fit with how the Mask games uses these terms and I think it doesn't make sense to call them emperors anyways.
+-Removed owlo's being referred to as emperors. This doesn't fit with how the Mask games uses these terms and I think it doesn't make sense to call them emperors anyways. Use of imperial is also removed.
 
 -Conversely the term 天子 (tenshi) is rendered as owlo officially but this was translated as Divine Scion in the Mask games. Scion doesn't make sense in the context it's used in here however, so I have opted for Divine Emperor.
 
