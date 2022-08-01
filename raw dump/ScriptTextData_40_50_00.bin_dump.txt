@@ -529,7 +529,7 @@ Is there a particular reason you're\nwilling to do this?
 いいだろう。そこまでの覚悟があるのなら、\nその望み‥‥叶えよう。
 좋아. 그렇게까지 각오하고 있다면\n그 소원…… 들어줄게.
 好吧。如果妳有這層覺悟，\n我就……實現妳的願望吧。
-All right. If you're this adamant about\nit, I will grant... your wish.
+Alright. If you're this adamant about\nit, I will grant... your wish.
 契約成立ですわね。
 계약 성립이네요.
 契約成立了呢。
