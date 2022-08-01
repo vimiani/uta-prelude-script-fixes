@@ -1,0 +1,416 @@
+燃{W6}え{W6}て{W6}い{W6}る{W6}‥{W6}‥
+불{W6}타{W6}고{W6} {W6}있{W6}다{W6}…{W6}…
+正{W6}在{W6}燃{W6}燒{W6}……{W6}……
+Burning...
+す{W6}べ{W6}て{W6}が{W6}灼{W6}熱{W6}の{W6}紅{W6}蓮{W6}に{W6}包{W6}ま{W6}れ{W6}て{W6}い{W6}る{W6}‥{W6}‥
+모{W6}든{W6} {W6}것{W6}이{W6} {W6}타{W6}오{W6}르{W6}는{W6} {W6}불{W6}길{W6}에{W6} {W6}둘{W6}러{W6}싸{W6}여{W6} {W6}있{W6}어{W6}…{W6}…
+所{W6}有{W6}的{W6}一{W6}切{W6}都{W6}被{W6}炙{W6}熱{W6}的{W6}紅{W6}蓮{W6}所{W6}包{W6}覆{W6}著{W6}……{W6}……
+Everything is enveloped in bright,\ncrimson flames...
+何{W6}処{W6}か{W6}ら{W6}か{W6}何{W6}か{W6}音{W6}が{W6}聞{W6}こ{W6}え{W6}る{W6}‥{W6}‥
+어{W6}디{W6}선{W6}가{W6} {W6}무{W6}슨{W6} {W6}소{W6}리{W6}가{W6} {W6}들{W6}려{W6}온{W6}다{W6}…{W6}…
+從{W6}不{W6}知{W6}名{W6}的{W6}地{W6}方{W6}傳{W6}來{W6}某{W6}種{W6}聲{W6}音{W6}……{W6}……
+I hear a sound coming from somewhere...
+何{W6}者{W6}か{W6}が{W6}呻{W6}く{W6}よ{W6}う{W6}な{W6}…{W6}藻{W6}掻{W6}き{W6}苦{W6}し{W6}む{W6}よ{W6}う{W6}な{W6}…\n{W6}そ{W6}ん{W6}な{W6}音{W6}が{W6}‥{W6}‥
+누{W6}군{W6}가{W6}가{W6} {W6}신{W6}음{W6}하{W6}는{W6} {W6}듯{W6}…{W6} {W6}발{W6}버{W6}둥{W6} {W6}치{W6}며{W6} {W6}고{W6}통{W6} {W6}받{W6}는{W6}…\n{W6}그{W6}런{W6} {W6}소{W6}리{W6}가{W6}…{W6}…
+有{W6}什{W6}麼{W6}人{W6}似{W6}乎{W6}在{W6}呻{W6}吟{W6}……{W6}聽{W6}起{W6}來{W6}似{W6}乎{W6}相{W6}當{W6}痛{W6}苦{W6}…\n{W6}那{W6}樣{W6}的{W6}聲{W6}音{W6}…{W6}…
+It sounds almost like someone\ngroaning... like they're writhing\nin pain...
+一{W6}つ{W6}で{W6}は{W6}な{W6}い{W6}‥{W6}‥
+하{W6}나{W6}가{W6} {W6}아{W6}니{W6}야{W6}…{W6}…
+並{W6}非{W6}只{W6}有{W6}一{W6}個{W6}……{W6}……
+No, not just one...
+幾{W6}つ{W6}も{W6}の{W6}そ{W6}れ{W6}が、{W6}呪{W6}詛{W6}の{W6}よ{W6}う{W6}に{W6}ま{W6}と{W6}わ{W6}り{W6}つ{W6}い{W6}て{W6}離{W6}れ{W6}な{W6}い{W6}‥{W6}‥
+몇{W6} {W6}개{W6}의{W6} {W6}그{W6}것{W6}들{W6}이{W6} {W6}저{W6}주{W6}와{W6}도{W6} {W6}같{W6}이{W6} {W6}달{W6}라{W6}붙{W6}어{W6}서{W6} {W6}떨{W6}어{W6}지{W6}지{W6} {W6}않{W6}아{W6}…{W6}…
+那{W6}聲{W6}音{W6}有{W6}好{W6}幾{W6}個，{W6}就{W6}像{W6}詛{W6}咒{W6}一{W6}樣{W6}的{W6}聲{W6}音{W6}緊{W6}緊{W6}纏{W6}繞{W6}在{W6}我{W6}身{W6}上{W6}……{W6}……
+It feels like countless curses are\ncoiling around me... and I can't free\nmyself...
+炎{W6}の{W6}中{W6}で、{W6}何{W6}か{W6}が{W6}[蠢*うごめ]{W6}い{W6}た{W6}‥{W6}‥
+불{W6}길{W6} {W6}속{W6}에{W6}서{W6} {W6}뭔{W6}가{W6} {W6}꿈{W6}틀{W6}댄{W6}다{W6}…
+火{W6}焰{W6}之{W6}中，{W6}有{W6}東{W6}西{W6}蠢{W6}蠢{W6}欲{W6}動{W6}……
+Something's squirming around in the\nflames.
+何{W6}か{W6}の{W6}塊{W6}‥{W6}‥
+어{W6}떤{W6} {W6}것{W6}이{W6}…{W6}…
+某{W6}種{W6}軀{W6}塊{W6}……{W6}……
+It's a block of some kind...
+そ{W6}れ{W6}は、{W6}ま{W6}る{W6}で{W6}手{W6}招{W6}き{W6}を{W6}す{W6}る{W6}よ{W6}う{W6}に{W6}ユ{W6}ラ{W6}ユ{W6}ラ{W6}と{W6}揺{W6}れ{W6}て{W6}い{W6}る{W6}‥{W6}‥
+그{W6}것{W6}은{W6} {W6}마{W6}치{W6} {W6}손{W6}짓{W6}하{W6}여{W6} {W6}나{W6}를{W6} {W6}부{W6}르{W6}듯{W6}이{W6} {W6}흔{W6}들{W6}흔{W6}들{W6}하{W6}고{W6} {W6}일{W6}렁{W6}인{W6}다{W6}…{W6}…
+那{W6}感{W6}覺{W6}就{W6}像{W6}是{W6}向{W6}我{W6}招{W6}手{W6}似{W6}的{W6}不{W6}斷{W6}搖{W6}晃{W6}……搖{W6}啊{W6}搖{W6}啊{W6}搖{W6}個{W6}不{W6}停{W6}歇{W6}……{W6}……
+It's gently swaying, as if it's\nbeckoning me closer.
+『{W6}呼{W6}ン{W6}デ{W6}イ{W6}ル{W6}‥{W6}‥{W6}』
+『{W6}부{W6}르{W6}고{W6} {W6}있{W6}어{W6}…{W6}…{W6}』
+「{W6}在{W6}呼{W6}喚{W6}著{W6}我{W6}……{W6}……{W6}」
+"Calling..."
+『{W6}私{W6}ヲ{W6}‥{W6}‥{W6}呼{W6}ン{W6}デ{W6}イ{W6}ル{W6}ノ{W6}カ{W6}‥{W6}‥{W6}』
+『{W6}나{W6}를{W6}…{W6}…{W6} {W6}부{W6}르{W6}고{W6} {W6}있{W6}는{W6} {W6}건{W6}가{W6}…{W6}』
+「{W6}是{W6}在{W6}……{W6}……{W6}呼{W6}喚{W6}著{W6}我{W6}嗎{W6}……{W6}……{W6}……{W6}……{W6}」
+"Is it... calling me...?"
+『{W6}ヤ{W6}メ{W6}ロ{W6}‥{W6}‥{W6}』
+『{W6}그{W6}만{W6}둬{W6}…{W6}…{W6}』
+「{W6}快{W6}住{W6}手{W6}……{W6}……{W6}」
+"Stop..."
+『{W6}ヤ{W6}メ{W6}ロ{W6}‥{W6}‥{W6}‥{W6}』
+『{W6}그{W6}만{W6}둬{W6}…{W6}…{W6}…{W6}』
+「{W6}快{W6}住{W6}手{W6}……{W6}……{W6}……{W6}」
+"Stop...!"
+『{W6}来{W6}ル{W6}ナ{W6}‥{W6}‥{W6}‥{W6}』
+『{W6}오{W6}지{W6}{W6} {W6}마{W6}…{W6}』
+「{W6}別{W6}過{W6}來{W6}……{W6}……{W6}……{W6}」
+"Don't come any closer..."
+『{W6}ソ{W6}ン{W6}ナ{W6}目{W6}デ{W6}‥{W6}‥{W6}私{W6}ヲ{W6}見{W6}ル{W6}ナ{W6}‥{W6}‥{W6}』
+『{W6}그{W6}런{W6} {W6}눈{W6}으{W6}로{W6}…{W6}…{W6} {W6}나{W6}를{W6} {W6}보{W6}지{W6} {W6}마{W6}…{W6}…{W6}』
+「{W6}別{W6}用{W6}那{W6}眼{W6}神{W6}……{W6}……{W6}別{W6}那{W6}樣{W6}看{W6}我{W6}……{W6}……{W6}」
+"Don't look at me... like that..."
+『{W6}オ{W6}前{W6}達{W6}ヲ{W6}ソ{W6}ン{W6}ナ{W6}姿{W6}ニ{W6}シ{W6}タ{W6}ノ{W6}ハ{W6}‥{W6}‥{W6}\n私{W6}デ{W6}ハ{W6}‥{W6}‥{W6}私{W6}デ{W6}ハ{W6}‥{W6}‥{W6}』
+『{W6}너{W6}희{W6}들{W6}을{W6} {W6}그{W6}런{W6} {W6}모{W6}습{W6}으{W6}로{W6} {W6}만{W6}든{W6} {W6}건{W6}…{W6}…{W6}\n내{W6}가{W6}…{W6}…{W6}…{W6}내{W6}가{W6}…{W6}…{W6}…{W6}』
+「{W6}把{W6}你{W6}們{W6}這{W6}些{W6}人{W6}變{W6}成{W6}這{W6}個{W6}姿{W6}態{W6}的{W6}……{W6}……{W6}\n不{W6}是{W6}我{W6}……{W6}……{W6}不{W6}是{W6}我{W6}……{W6}……{W6}」
+"The one who gave you that form...\nwasn't me... It wasn't me..."
+『{W6}違{W6}ウ{W6}‥{W6}‥{W6}』
+『{W6}아{W6}니{W6}야{W6}…{W6}』
+「{W6}不{W6}對{W6}……{W6}……{W6}」
+"You're wrong..."
+ハ{W6}ク{W6}オ{W6}ロ{W6}さ{W6}ん{W6}‥{W6}‥
+하{W6}쿠{W6}오{W6}로{W6} {W6}씨{W6}…{W6}…{W6}…
+哈{W6}克{W6}奧{W6}羅{W6}先{W6}生{W6}……{W6}……
+Hakuowlo...
+『{W6}違{W6}ウ{W6}‥{W6}‥{W6}‥{W6}‥{W6}』
+『{W6}아{W6}니{W6}야{W6}…{W6}…{W6}…{W6}』
+「{W6}不{W6}對{W6}……{W6}……{W6}……{W6}……{W6}」
+"You're wrong..."
+ハ{W6}ク{W6}オ{W6}ロ{W6}さ{W6}ん{W6}‥{W6}‥
+하{W6}쿠{W6}오{W6}로{W6} {W6}씨{W6}…{W6}…{W6}…
+哈{W6}克{W6}奧{W6}羅{W6}先{W6}生{W6}……{W6}……
+Hakuowlo...
+『違ウ━━━━』
+『아니야━━━━』
+「不對━━━━」
+"You're wrong--!"
+ハクオロさんЦ
+하쿠오로 씨!!
+哈克奧羅先生Ц
+Hakuowlo!!
+━━ハッЧ
+━━핫!!
+━━啊Ч
+*Pant* *pant*...!?
+大丈夫ですか。何だかうなされてましたけど。
+괜찮으세요? 괴로워하시던데.
+沒事吧？你好像做惡夢了。
+Are you OK? It looked like you were \nhaving a nightmare.
+あ…ああ‥‥
+아…… 괜찮아……
+啊……啊啊……
+Y-Yeah...
+夢‥‥か
+꿈이었나……
+是夢啊……
+It was... all a dream...?
+いつの間にか、寝てしまったのか。
+어느새 잠들어버렸군.
+我不知不覺睡著了嗎。
+I must have dozed off.
+『兄者、入るぞ！』
+『형님, 들어갈게!』
+「大哥，我進來了！」
+"I've arrived!"
+オボロか。無事に戻ったようだな。で、どうだ。
+오보로인가. 무사히 돌아왔구나. 그래서 어떻게 됐어.
+是朧嗎？幸好你平安回來了。狀況如何？
+Oboro? I'm glad you made it back safely.\nSo, what did you find?
+ぐ━━
+윽━━
+唔━━
+Guh--
+‥‥‥‥面目ない。
+…………면목 없어.
+…………說來慚愧。
+...I apologize.
+そうか、また逃がしたか。
+그래, 또 놓친 모양이군.
+這樣啊，對方又逃走了嗎？
+I see, they ran away again...
+今度はあと一歩だったんだ。そしたら、またあの女が。
+이번엔 바로 코앞이었다고. 그랬는데 또 그 여자가.
+這次就只差一點點，結果又被那女的妨礙。
+I nearly succeeded, but as I was \nabout to approach, that woman \nappeared again.
+『情けねぇなぁ』
+『한심하군그래』
+「真丟臉啊。」
+"Man, how pathetic."
+何ッ━━
+뭣━━
+什━━
+What--?
+結局逃げられたんじゃねぇの。
+결국 놓쳤다는 거 아냐.
+結果還是讓對方逃走了吧？
+In the end, you let them get away.
+ぐ━━
+윽━━
+嗚━━
+Ugh--
+わ、若様、落ち着いて…
+도, 도련님, 진정하세요…
+少、少主，冷靜點……
+Y-Young master, please calm down...
+総大将、今戻りやしたぜ。
+총대장, 지금 돌아왔습니다.
+總大將，我回來了。
+I'm back, Your Majesty.
+そう言うお前はどうなんだよ。
+그러는 넌 어떤데.
+說起來，你那裡又怎麼樣？
+Well, what about you?
+俺かい？　俺は[彼奴等*あいつら]の都の位置を掴んだぜ。
+나 말이냐? 난 놈들의 수도가 어디 있는지 알아냈다고.
+我嗎？我掌握那些人的根據地了。
+Me? I found out where their capital is.
+なに、本当か！
+뭐라고, 정말이냐!
+什麼，真的嗎！
+You did!?
+あ‥‥いや‥‥まぁ‥‥既にもぬけの殻だったんですけどね。
+아…… 아니…… 그게…… 이미 다 빠져나간 후였습니다만.
+啊……不……那個……已經人去樓空了。
+Uh... Um, well... it was already empty \nwhen I got there...
+むぅ‥‥
+음……
+唔……
+Hmm...
+[彼奴等*あいつら]、陣どころか、都の位置すら簡単に変えやすからね。
+놈들은 진영뿐만 아니라 수도도 간단히 바꾼다니까요.
+那些傢伙不只是陣營，連都城的所在地都能輕易改變呢。
+Those bastards pack up quickly... \nNot just their camps, but their capital, \ntoo.
+ハッ━━でかい口を叩いて、その様か。
+핫━━ 큰소리치더니 그 꼴이냐.
+哈━━那你還好意思用那種口氣教訓我？
+Heh... What happened to your earlier \nbravado?
+あの女が邪魔さえしなけりゃ、こんな事にはならなかったんだよ。
+그 여자가 방해만 안 했어도 이런 일은 없었다고.
+如果那女的沒來妨礙我，就不會這樣了。
+If that woman hadn't gotten in my way, \nit would have turned out differently.
+結局、お前もあの女にやられたのか。
+결국 너도 그 여자한테 당한 거잖아.
+結果你不也是被那女的擺了一道。
+Hmph, so she inconvenienced you as \nwell?
+オメェこそ━━
+네놈이야말로━━
+你才是━━
+You, too--!
+あ、あの、お茶でも飲んで落ち着いてください。
+저, 저어, 차라도 드시면서 진정하세요.
+那、那個，各位喝點茶，冷靜一下吧。
+U-Um, please calm down and have some \ntea.
+む…
+음…
+唔……
+Mm...
+お…
+어…
+哦……
+Oh...
+ふぅ～…
+후우~…
+呼……
+Ah...
+ホッ‥‥あ、そうだ。良かったらお茶菓子が━━
+휴…… 아, 그렇지. 괜찮으시면 다과라도━
+呼……對了。還有點心哦━━
+...Oh, that's right. Would you like \nsome snacks--
+テメッ、そりゃ俺のだ！
+이놈이, 그건 내 거다!
+你這傢伙，那是我的！
+You bastard, that's mine!
+[ほ～ひふほはへほはっへひ*そう言うお前も勝手に]━━
+[으어헤 아하은 어호 어헤오*그렇게 말하는 너도 멋대로]━━
+[齁～哩呼厚哈嘿厚嘿咿*你嘴上這麼說，還擅自]━━
+You took some without asking--
+あ、あの、まだありますから━━
+저, 저기, 더 있어요━━
+那、那個，點心還有剩的━━
+U-Um, there's still plenty--
+クッチャ・ケッチャの強さは、その機動力を活かした[騎兵衆*ラクシャライ]にある。
+쿳챠·켓챠의 강함은 기동력을 살린 [라쿠샤라이*기병대]에 있다.
+庫查‧凱查的強大之處，就在於活用\n機動力的[騎兵隊*拉克夏萊]。
+Kucca Kecca's strength lies in the\nmobility of their rakusharai.
+こちらが態勢を整える前に一気に押寄せ、
+태세를 갖추기 전에 단숨에 들이닥치고
+在我們重整旗鼓前一口氣進軍，
+Before we can regroup, they advance on us again. 
+\n反撃する頃には、すでに撤退してしまっている。
+\n반격할 때쯤에는 이미 퇴각해버리고 있어.
+\n當我們打算反擊時，他們早已經撤退了。
+By the time we can mount a counterattack, they're already gone.
+そして陣が絶えず移動する為、
+게다가 진영이 끊임없이 이동하기 때문에 
+由於他們不斷移動陣地，
+And because they continuously move their camps around... 
+こちらから襲撃するも既にもぬけの殻ということだ。
+우리가 공격할 때쯤엔 이미 텅 비어있다는 거야.
+當我們發動襲擊時，他們卻金蟬脫殼了。
+their capital was deserted by the time we attacked.
+そして、何より厄介なのが…
+그리고 무엇보다 성가신 건…
+而且，最麻煩的是……
+However, the most annoying part of\nall of this is...
+‥‥あの女か。
+……그 여자인가.
+……那個女的。
+...that woman.
+こちらの動きを、ことごとく封じてくれるあの女
+우리 움직임을 모조리 막아버리는 그 여자.
+她三番五次地妨礙了我們的行動。
+That woman who completely halts all\nof our movements.
+エヴェンクルガ族…
+에벤크루가족…
+艾文庫魯加族……
+The Evenkuruga tribe is a small tribe \nthat lives in the highlands...
+高地に住む少数部族で、それぞれが[武人*もののふ]として名を残すほど武の資質に恵まれた者達です。
+고지에서 생활하는 소수 민족으로, 각자가 무인으로서 이름을 남길 정도로 무예의 자질이 뛰어난 자들입니다.
+那是住在高原的少數民族，天生擁有成為武士的高資質，以此聞名。
+...And they've such a natural talent \nfor combat, each member could be \nremembered as a mononofu in the future.
+そして何よりも、その孤高とも言える精神‥‥忠誠、犠牲、信義、廉恥、礼儀、潔白、質素、倹約、尚武、名誉、情愛━━
+그리고 무엇보다도 고고한 정신…… 충성, 희생, 신의, 염치, 예의, 결백, 검소, 절약, 무예, 명예, 애정━━
+而他們最為知名的，就是可用孤高形容的精神……忠誠、犧牲、信義、廉正、禮儀、純潔、樸質、節儉、勇武、名譽、博愛━━
+What sets them above others... their \nspirit, their sense of loyalty, \nself-sacrifice, honor, integrity--
+例え己が命を失おうとも、決して義に反することはしないでしょう。
+설령 목숨을 잃더라도 결코 대의에 반하는 일은 하지 않습니다.
+他們即使失去性命，也絕對不會違反大義。
+Under no circumstance will they betray \ntheir honor, even at the cost of their \nlife.
+そんな彼らに、人々はいつしか特別な想いを抱くようになりました。
+그렇기에 사람들은 언제부턴가 그들에게 특별한 생각을 갖게 되었습니다.
+不知不覺，人們開始對他們抱持著特殊的看法了。
+At some point people came to revere them.
+義はエヴェンクルガに有りと。
+대의는 에벤크루가에게 있다고.
+大家都認為，大義在艾文庫魯加族一方。
+It is said that righteousness is with Evenkuruga.
+エヴェンクルガ…
+에벤크루가…
+艾文庫魯加族……
+Evenkuruga, eh...
+そうだ、あの漢━━
+그래, 그 사내━━
+對了，那個男人━━
+That's right, that man...
+ゲンジマル
+겐지마루
+源次丸。
+Genjimaru...
+あれがエヴェンクルガの漢…
+그것이 에벤크루가의 사내…
+他也是艾文庫魯加族的男人……
+He is an Evenkurugan...
+あんな豪傑が相手ということか…
+그런 호걸이 상대라는 건가…
+也就是說，我們的對手是那類豪傑之士啊……
+So we're fighting a genuine hero...
+しかし何故だ。何故そのエヴェンクルガがヤツらに加担する。
+하지만 왜지. 왜 그런 에벤크루가가 놈들에게 가담한 거지.
+不過為什麼？為什麼那位艾文庫魯加族會加入那個陣營。
+But, why would an Evenkurugan aid them?
+もしや、聖上の失われた過去に関係しているのでは。
+어쩌면 성상의 잃어버린 과거와 관계가 있는 것이 아닌지.
+或許那與聖上遺忘的過去有關。
+Perhaps it is related to Your Majesty's \nforgotten past.
+あ…
+아…
+啊……
+Oh...
+失言でした。お忘れ下さい。
+실언이었습니다. 잊어주십시오.
+我失言了，請忘記剛才的話。
+...I spoke improperly. Please pay it \nno mind.
+とにかく、敵にエヴェンクルガがいることで民や兵の間に動揺が走っています。
+어쨌든 적군에 에벤크루가가 있어 백성과 병사들이 동요하고 있습니다.
+總之，只要敵陣有艾文庫魯加族，人民及士兵就會感到動搖。
+Regardless, that one of the Evenkuruga has sided with the enemy is a shock to morale amongst our citizens and troops.
+この戦い、更に厳しいものになるかと。
+더욱 힘든 전투가 될 것 같습니다.
+這場戰爭或許會更加嚴苛。
+This conflict has become troublesome.
+‥‥‥‥‥‥
+………………
+……
+...
+そうだな。何にせよ、このままでは[埒*らち]が明かない。
+그래. 어쨌든 이대로는 끝이 없겠어.
+是啊。不管怎樣，這樣下去不會有所進展。
+You're right. In any event, we aren't\nmaking any progress.
+奴等の足を止めなければ、捕まえる事は難しいだろう。
+놈들의 발을 묶지 않으면 붙잡는 건 어렵겠지.
+只有阻止他們的行動，才能抓住他們。
+If we can't negate their mobility advantage, it'll be hard to capture them.
+ベナウィは西方から、オボロは東方から、奴等が何処をどう逃げるか、それを調べろ。
+베나위는 서쪽부터, 오보로는 동쪽부터 놈들이 어디로 어떻게 도망치는지 알아보도록.
+貝納威從西方，朧從東方查起，調查他們用什麼方式逃向哪裡。
+Find out where they went. Benawi, you\ntake the west. Oboro, you take the east.
+応ッЦ
+알겠어!!
+是Ц
+Understood!
+御心のままに。
+분부대로.
+遵旨。
+As you wish.
+二人とも、行くぞ。
+둘 다, 가자.
+你們倆，走囉。
+Let's go.
+ハイッ！
+네!
+是！
+Yes, young master!
+クロウ、行きます。
+크로우, 갑시다.
+克羅，走吧。
+Kurou. Let's go.
+ういっス。
+알겠습니다.
+是。
+Yes, sir.
+何としてでも、\n奴等の足を止めなければ‥‥
+어떻게 해서든\n놈들의 움직임을 막아야 해……
+無論如何，\n都得想辦法阻止他們的行動……
+No matter what, we must limit their movements...
+‥‥‥‥‥‥
+………………
+…………
+...
+裏切者‥‥か
+배신자인가……
+背叛者……嗎。
+I'm a traitor, huh...?
+あの‥‥もうお休みになった方が…
+저기…… 이제 주무시는 게…
+那個……差不多該休息了……
+Um... I think you should get some \nrest...
+もうこんな時間か。エルルゥは先にお休み。
+시간이 벌써 그렇게 됐나. 에루루는 먼저 들어가.
+已經這個時間了？艾露露先休息吧。
+It's this late already? Eruruu,\nyou should get some sleep.
+でも…
+하지만…
+但是……
+But...
+いいから。それに私はまだやる事が残っている。
+괜찮으니까. 그리고 난 아직 할 일이 남아 있어.
+沒關係。我還有工作沒做完。
+It's fine. Besides, I still have some\nthings to do.
+‥{W8}‥{W8}‥{W8}‥{W8}‥{W8}‥{W8}
+…{W8}…{W8}…{W8}…{W8}…{W8}…{W8}…{W8}
+……{W8}……{W8}……{W8}……{W8}……{W8}……{W8}
+...{W8}...{W8}...{W8}\n...{W8}...{W8}...{W8}
+は{W8}い{W8}。
+네{W8}.
+好{W8}的{W8}。
+\nAl{W8}right{W8}.
+それでは、おやすみなさい…
+그럼 안녕히 주무세요…
+那麼，晚安……
+Well, then. Good night...
+ああ、お休み。
+그래, 잘 자.
+嗯，晚安。
+Good night.
+‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥
+………………………………………………
+……
+...

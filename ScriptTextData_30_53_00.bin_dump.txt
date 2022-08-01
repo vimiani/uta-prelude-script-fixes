@@ -1,0 +1,212 @@
+報告しやすЦ
+보고드립니다!!
+報告Ц
+Reporting!
+ウパッコの関がシケリペチムの襲撃を受け、陥落！
+우팟코 관문이 시케리페치무의 습격을 받아 함락됐습니다!
+烏帕科關卡受到西肯利貝查姆的襲擊，已淪陷！
+Upakko Gate has been attacked by \nShikeripechim and has fallen!
+敵数━━[凡*およ]そ六千。
+적군의 수━━ 대략 육천.
+敵方數量━━大約六千。
+The enemy is about... six thousand in \nnumber!
+侵攻止まらず、更に南下。明日には、シシハル藩への侵攻が予測されやす。
+멈추지 않고 계속 남하 중입니다. 내일은 시시하루를 침공하리라 예상됩니다.
+對方沒有停止進攻，已經南下。預計明天會攻到希希哈爾藩。
+They're still invading! We expect them \nin Shishiharu Province by tomorrow.
+命令をЦ
+명령을!!
+請下令Ц
+Your orders, sir!!
+甘かったか‥‥
+너무 쉽게 생각했나……
+太天真了嗎……
+Was I too naive...?
+見抜かれたようですね。
+간파당한 모양이군요.
+我們被看透了呢。
+It appears that he saw right through us.
+ああ‥‥
+그래……
+是啊……
+Yes...
+そして、読み違えていた。戦力の消耗が惜しくてあんな降伏勧告をしてきたのではない。
+그리고 잘못 생각했어. 전력 소모가 아까워서 항복 권고를 한 게 아니야.
+而且我誤判了。對方不是想節省戰力，才以那樣的方式勸告投降。
+It seems I misread him. He didn't order\nus to surrender because he didn't want\nto waste his precious military forces.
+あれは、圧力をかけてどう反応するか‥‥その反応を楽しんでいたのだ。
+압력을 가하면 어떻게 반응하는가…… 그 반응을 즐겼던 거다.
+他在透過施加壓力，觀察有什麼反應……對方很享受這種反應。
+He just wanted to see how I would\nrespond if he applied pressure...\nHe enjoyed seeing my reaction.
+シケリペチム皇、ニウェ‥‥
+시케리페치무 왕, 니웨……
+西肯利貝查姆皇，尼維……
+Niwe, the owlo of Shikeripechim...
+勝てませんか。
+이길 수 없겠군요.
+贏不了嗎？
+Is there no hope of victory?
+ああ、勝てんな。戦力に差がありすぎる。
+그래, 이길 수 없어. 전력 차이가 너무 크다.
+啊，贏不了。戰力差太多了。
+Not this time. Their military is too\npowerful for us.
+何を言ってる、兄者がそんなことでは━━！
+무슨 소리야, 형님이 그런 소릴━━!
+你在說什麼啊，怎麼連大哥都講這種話━━！
+What are you saying!? Big bro, we can't possibly--
+なるべくなら…
+되도록…
+逼不得已……
+If at all possible...
+…？
+…?
+……？
+...?
+なるべくなら、こんな手段は使いたくなかった‥‥
+되도록 이런 수단은 쓰고 싶지 않았는데……
+若非逼不得已，我不想使出這種手段……
+If at all possible... I wanted to\navoid resorting to this...
+[已*や]むを得ない…か。
+어쩔 수 없나…
+沒辦法了……
+But... it seems we have no choice.
+兄者？
+형님?
+大哥？
+Big bro?
+シシハル、キヌハンの[防人*さきもり]へ通達。各陣を放棄し、撤退。後方のホゥホロ城へ集結させよ。
+시시하루와 키누한 수비대에게 전해라. 각 진영을 포기하고 퇴각. 후방의 호우호로 성으로 집결시켜라.
+通知希希哈爾及奇努汗的守備。放棄各陣地，撤軍。在後方的霍霍羅城集合。
+Notify the Shishiharu and Kinuhan\nsoldiers to abandon their posts and\nevacuate to Huhoro Castle.
+撤退━━どういうことだ兄者。
+퇴각━━ 무슨 생각이야, 형님.
+撤退━━大哥，怎麼回事？
+Evacuate!? What do you mean?
+ういっス、シシハル、キヌハンの各陣を撤退。ホゥホロ城へ集結させやす。
+알겠습니다. 시시하루, 키누한 각 진영에서 퇴각. 호우호로 성에 집결시키겠습니다.
+了解，希希哈爾及奇努汗的各軍撤退。在霍霍羅城集合。
+Yes, sir! Evacuating defense in \nShishiharu and Kinuhan to assemble in \nHuhoro Castle.
+ただし、陣は破壊せず、そのまま放置すること。
+단, 진영은 파괴하지 않고 그대로 방치해야 한다.
+但是不要破壞陣地，就這樣放著不管。
+However, they are not to break down their camps. They should abandon their posts intact.
+そのまま？　しかし、城をみすみすくれてやることになりますが…よろしいんで？
+그대로? 하지만 성을 두 눈 뜨고 넘겨주게 되는데… 괜찮습니까?
+放著不管？ 但是，這樣就等於把城池白白讓給別人了……這樣好嗎？
+Intact? We'll just be handing them our forts. Is that okay with ya?
+ああ、くれてやるんだ。
+그래, 넘겨주는 거야.
+啊，就這樣吧。
+Yes, do it.
+そうだな。その際、出来るだけ急がせてくれ。
+그렇지. 그때는 되도록 서둘러야 해.
+對了。盡可能讓他們快點行動。
+And in doing so, they must travel\nas quickly as possible.
+蜘蛛の子を散らすように━━いかにも、奴等に恐れをなし、命惜しさに逃げ出したような感じにな。
+정신없이 달아나는 것처럼━━ 누가 봐도 놈들이 무서워서 목숨을 부지하려고 도망치는 것처럼 말이야.
+就像蜘蛛的小孩四處逃散一樣━━就像相當懼怕那些人，貪生怕死想要逃走的感覺。
+They must scatter in all directions...\nmake the Shikeripechim army believe\nthey are running for their lives.
+せっかくくれてやるんだ。奴等には安心して使ってもらわんとな。
+기왕 주는 거니 안심하고 사용하게 하는 거다.
+既然都要讓給他們了。就讓他們安心使用吧。
+They must especially believe it. The\nmore they feel at ease, the more we\ncan use it to our advantage.
+‥‥‥‥‥‥‥‥
+……………………
+……………………
+...
+ういっス！
+알겠습니다!
+知道了！
+Yes, sir!
+兄者、何を考えているんだ。
+형님, 무슨 생각을 하는 거야.
+大哥，你在想什麼？
+Big bro, what are you thinking?
+チキナロ、いるな。
+치키나로, 거기 있나?
+切奇納羅，在嗎？
+Chikinaro, are you there?
+お呼びで御座いますか、ハイ。
+부르셨습니까요, 예에.
+您叫我嗎？我在的。
+You called, yes?
+用意してもらいたい物がある。この目録に挙げてある物を、早急にだ。
+필요한 물건이 있다. 이 목록에 적혀 있는 것을 신속하게 구해다오.
+我有東西想讓你準備。是這單子上列出的物品，要盡快。
+There's something I want you to prepare.\nPlease acquire the items on this list,\nright away.
+出来るか？
+가능한가?
+能辦到嗎？
+Can you do that?
+そうで御座いますね。明日の夕刻までにはなんとか。
+당연합죠. 내일 저녁까지는 가져오겠습니다요.
+我想想。明天傍晚前，我會盡可能辦妥。
+Yes, I can do that by tomorrow evening.
+明朝までにだ。それ以上は待てん。
+내일 아침까지다. 그 이상은 못 기다려.
+明早前要辦好。不能繼續等了。
+Make that by tomorrow morning. We\ncan't hold out any longer than that.
+人使いの荒い御方で…承知いたしました。
+사람을 험하게 부리시는군요… 알겠습니다요.
+您還真會使喚人……我知道了。
+Ah, you sure know how to work someone \nhard, Your Majesty... Yes, understood.
+あの、ここに書いてあるのでしたら、わたしの薬棚にありますけど…
+저기, 여기 적혀있는 거라면 제 약상자에도 있는데…
+那個，我的藥棚上也有這裡列出來的東西……
+Um, I have some of the items here in my \nmedicine cabinet.
+‥‥いや、いいんだ。エルルゥのは使えない。
+……아니, 괜찮아. 에루루 건 쓸 수 없어.
+……不，沒關係。不能用艾露露的物品。
+...No, it's okay. I don't want to use\nany of your supplies.
+そう‥‥ですか。
+그런……가요.
+這樣啊……
+I... see.
+兄者━━
+형님━━
+大哥━━
+Big bro--
+ベナウィ、ホゥホロ城に防御陣を布く。三日間だけでいい、何があっても死守させよ。
+베나위, 호우호로 성에 방어진을 쳐라. 사흘이면 되니 무슨 일이 있어도 사수하도록.
+貝納威，布下霍霍羅城的防守。只要三天就好，務必死守。
+Benawi, assume command of the defense\nforces at Huhoro Castle. For three days,\nyou must guard it with your life.
+ハッ！
+네!
+是！
+Yes, sire.
+兄者Ц
+형님!!
+大哥Ц
+Big bro!!
+さあ、後は‥‥
+그럼 다음은……
+那麼之後就……
+Now, all that's left...
+└─┐ッЦ
+└─┐윽!!
+└─┐嗚Ц
+!!!!
+何をしている。[出陣*で]るぞ、オボロ。
+뭐 하는 거야. 출진이다, 오보로.
+你在做什麼？要進軍了，朧。
+What are you doing, Oboro? Let's go.
+Ч
+!?
+Ч
+!?
+[戦*いくさ]が始まる。また、お前の力を借りるぞ。
+전쟁이 시작될 거야. 한 번 더 너의 힘을 빌려줘.
+戰爭開始了。又到你上場的時候囉。
+War has begun. I need your help, again.
+兄者‥‥
+형님……
+大哥……
+Big bro...
+お‥‥
+좋아……
+哦……
+I...
+応ッЦ
+알았어!!
+是Ц
+Understood!!
