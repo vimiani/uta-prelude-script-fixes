@@ -1,0 +1,756 @@
+さて、この辺りから[國境*くにざかい]だ。何が起こるか判らんから、気を付けた方がいい。
+이 근처부터는 국경이야. 무슨 일이 생길지 모르니 조심해.
+那麼，這附近就是國境了。不曉得會發生什麼事，還是小心點比較好。
+Hmm, well, we should be on the border. \nWe don't know what will happen, so be \ncareful.
+ぁ…？
+아…?
+啊……？
+Ah...?
+どうした。
+무슨 일이야?
+怎麼了？
+What's wrong?
+ヒトの声‥‥
+사람 목소리가……
+有人的聲音……
+Someone's voice...
+悲鳴のような‥‥
+비명 같아요……
+像是在慘叫……
+It sounded like a scream...
+待てカルラ━━、\nお前たちはここで待ってるんだ。
+기다려, 카루라━━\n너희는 여기서 기다려.
+卡露拉等等━━\n妳們都待在這裡。
+Wait, Karulau--\n...You all wait here!
+あっ！
+앗!
+啊！
+Ah!
+ハァ、ハァ、ハァ、ハァ━━
+하아, 하아, 하아, 하아━━
+呼、呼、呼、呼━━
+*Pant* *pant* *pant* *pant*...
+ハッ、ハッ、ハァ！　そらそら、どうした、足がふらついてるぜ。
+핫, 하, 하! 어이, 왜 그래. 다리가 후들거리는데?
+哈哈哈！怎麼啦，妳的腳在發抖哦。
+Hah-hah-hah! C'mon, what's wrong? You're shaking.
+久々の獲物だぁ、もっと楽しませてくれよぉ。
+오래간만의 사냥감이라고, 좀 더 재밌게 해 봐.
+好久沒出現獵物了，再讓我更盡興點啊。
+It's been a long time since we caught \nany prey. Entertain us.
+あっ━━
+앗━━
+啊━━
+Ah--
+あうっ！
+으윽!
+啊嗚！
+Aaaaaahh!!
+何だぁ、もう終わりかよ。
+뭐야, 벌써 끝이냐?
+什麼，已經結束了嗎？
+What? Over already?
+じゃあ、仕方ねぇよなぁ。
+그럼 어쩔 수 없네.
+那就沒辦法了。
+Well... guess that's that.
+あ‥‥ぁ‥‥‥‥
+아……아………
+啊……啊…………
+Ah... ah...
+‥‥‥‥‥‥
+………………
+……………………
+...
+カルラ‥‥ッЧ
+카루라……!?
+卡露拉……Ч
+Karulau...!
+あ？　何だぁ、テメェ等。
+앙? 넌 뭐야.
+啊？你們是哪來的。
+Huh? Who are you?
+た、たすけ━━助けてください！
+사, 살려━━ 살려주세요!
+救、救我━━請救救我！
+H-Help--\nPlease help!!
+おい見ろよ。コイツ、[はぐれ*・・・]だぜ。
+이거 보게. 이 녀석 [혼*ㆍ][자*ㆍ]인데?
+喂，快看。這傢伙是[上等貨*・・・]呢。
+Hey, look here. This one's a stray.
+ほぅ、コイツは‥‥
+호오, 이건 꽤……
+哦，這是……
+Hmm? This one's...
+カルラの[躰*からだ]を舐めるように見つめる男。
+카루라의 몸을 핥듯이 바라보는 남자.
+男人用下流的眼神看著卡露拉的身體。
+The men are looking Karulau up and down.
+そんなことは気にもとめた様子はなく、\nカルラは少女に微笑んだ。
+카루라는 그런 남자를 무시한 채\n소녀에게 미소 지었다.
+卡露拉完全不在意這種事，\n只是對少女露出微笑。
+Karulau smiles at the girl, paying them \nno heed.
+お行きなさいな。
+가봐.
+快走吧。
+Run along.
+Ч
+!?
+Ч
+!?
+どうしまして？　お行きなさい。
+왜 그래? 어서 가.
+怎麼了？快走吧。
+What's the matter? Run along.
+ぁ‥‥ァ‥‥
+아…… 아……
+啊……好……
+Ah...
+少女はカクカクと頷き走ってゆく。
+소녀는 고개를 끄덕이곤 달려갔다.
+少女猛點頭後，立刻跑走了。
+The girl nods and runs away.
+あーあ、獲物が行っちまうぜ。
+아━아, 사냥감이 도망치잖아.
+啊━━啊，獵物跑走了。
+Aw, man. Our prey got away.
+いいんじゃねぇか。\nかわりに極上のが迷い込んできたんだからよ。
+뭐, 어때.\n그 대신 상등품이 굴러들어 왔는데.
+有什麼關係，\n有個上等的獵物迷路到這裡啦。
+It's OK. We found a better one... \nShe got lost and found her way here.
+ケケ━━違ぇねぇ。
+크크━━ 그렇지.
+嘻嘻━━沒錯。
+Heh, you're not wrong.
+なかなか活きが良さそうじゃねえか。\nコイツは楽しませてくれそうだぜ。
+꽤 당돌한걸.\n우릴 재밌게 해줄 것 같아.
+看起來真是可口誘人啊。\n看來能讓我們好好享樂一番。
+She looks full of energy, too. \nLooks like we're gonna get some \nentertainment out of her.
+今までのは簡単に壊れちまったからな。
+지금까진 너무 간단히 죽었으니까.
+以前的獵物三兩下就壞掉了。
+All the others broke down way too \neasily.
+ヒャハハハハハハハハ、どうした、逃げないのか。
+카하하하하하하하, 도망 안 치고 뭐 하냐?
+咿哈哈哈哈哈哈，怎麼了，妳不逃嗎？
+Hahahaha, what's wrong? \nAren'tcha gonna run?
+カルラに下卑た笑いを浴びせる男達。
+카루라를 보며 상스럽게 비웃는 남자들.
+男人們卑劣的笑聲包圍著卡露拉。
+The men are laughing vulgarly at \nKarulau.
+知らないと言うことは、ある意味幸せかもしれん
+모른다는 건 어떤 의미론 행복한 거군.
+某種意義上來說，無知的確是件幸福的事。
+In some respects, ignorance is bliss...\nIt may be best they don't know...
+自分達が『誰に』『何を』言って\nいるのか…
+자신들이 『누구에게』 『무슨』 말을\n하는 건지…
+自己到底在「對誰」說「什麼」……
+...who it is they're speaking to. \nAs for what they're saying...
+私が奴等なら‥‥\nいや、カルラを知る者なら、\n決してあのような真似はしないものを
+내가 저 녀석들이면……\n아니, 카루라를 아는 사람이라면\n절대 저렇겐 못 하겠지
+如果我是他們……\n不對，如果是認識卡露拉的人，\n絕不可能當著她的面做出那種行為的。
+If they knew who Karulau was, \nthey would never dare.
+聞いてもよろしいかしら。
+질문 하나 해도 될까요?
+我可以問個問題嗎？
+Would you allow me to ask you \na question?
+ガハハハハハ、『よろしいかしら』だとよ。
+크하하하하, 『해도 될까요』란다.
+啊哈哈哈哈哈，她說「可以問個問題嗎」耶。
+Hahahaha, "would you allow", she asks.\nHow fancy.
+その血糊‥‥先程までに何人殺しまして？
+그 핏자국…… 지금까지 몇이나 죽였나요?
+那片血跡……你們到底殺了多少人？
+That bloodstain... \nHow many people have you killed?
+さぁな。逃げ出そうとする奴等を片づけるのに、いちいち数えているとおもうか。
+글쎄다. 도망치는 것들을 정리할 때 하나하나 셀리 없잖아.
+天曉得。我們只是在處理逃走的傢伙，怎麼可能一一計算啊。
+Who knows? You think we keep count of \nevery one of those bitches?
+まったく、女子供ばかりで張り合いがなかったぜ。
+여자랑 애들뿐이라 손맛이 없었어.
+真是的，都是女人跟小孩，根本無法滿足啊。
+Ugh, they were all so boring.
+クククッ━━女を[殺*や]るのが三度のメシより好きなくせによ。
+크크큭━━ 밥 먹는 것보다 여자 죽이는 게 더 좋은 주제에.
+哈哈━━你最喜歡殺的明明就是女人吧。
+Heheh, but you're the one having all \nthe fun, killing the women.
+‥‥‥‥‥‥
+………………
+……………………
+...
+愚か者め…
+어리석은 놈…
+真是群笨蛋……
+What fools...
+ハハハ━━
+하하하━━ 
+哈哈哈━━
+Hahaha--
+ぁ？
+어?
+啊？
+\nAh?
+何が起こったか判らないといった表情のまま、縦真っ二つに分かれて地面に倒れる男。
+자신에게 무슨 일이 생겼는지 모르겠다는 표정만 남긴 채 절반으로 갈라져 쓰러지는 남자.
+男人露出不曉得發生什麼事的表情，身體左右分成兩半倒在地上。
+One of the men falls to the ground with \na clueless expression on his face. \nHis body is cleanly split in two.
+理解出来なかったのは、その男だけでは\nなかった。
+상황 파악이 안 된 건\n그 남자뿐만이 아니었다.
+無法理解的，\n不只是那男的而已。
+He isn't the only one unable to \ncomprehend the situation.
+他の男達もポカンと惚けたような表情で見つめていたが、やがて我に返ると慌ててカルラを取り囲む。
+다른 남자들도 얼빠진 표정으로 쳐다만 보다가 정신 차리고 카루라에게 몰려들었다.
+其他男人也露出呆滯的表情看著現場，不過他們終於回過神，包圍住卡露拉。
+The other men are staring blankly, but \nafter regaining their senses, they \nsurround Karulau in a panic.
+き、貴様ッЦ
+이, 이놈이!!
+妳、妳這傢伙Ц
+Y-You bitch!!
+あるじ様…目を[瞑*つむ]って‥‥
+주인님… 눈을 감아주세요……
+主人……閉上眼睛……
+Master, close your eyes.
+‥‥何？
+……뭐?
+……什麼？
+...What?
+どういう意味‥‥
+무슨 뜻……
+什麼意思……
+What does she mean...?
+ッЧ
+ 윽!?
+啊Ч
+\n...!!
+背筋が痺れる程の殺気。\n一瞬にして辺りの空気が凍り付く━━
+등줄기가 서늘해지는 살기.\n한순간에 주변 공기가 얼어붙었다━━
+那是讓人無法動彈的殺氣。\n周遭的空氣，一瞬間被凍結━━
+The bloodlust in the air almost numbs my \nspine. The surrounding air freezes one \ninstant--
+次の瞬間━━
+그리고는━━
+下個瞬間━━
+And in the next instant--
+『あああああああああああああああああああ\nああああああああああああああッЦЦ』
+『아아아아아아아아아아아아아아아\n아아아아아아아아아아아아아!!!!』
+「啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊\n啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊ЦЦ」
+"AAAAAAAAAAAAAAAAHHHHHHH!!!!!!"
+カルラの口から、凄まじい雄叫びがあがった。
+카루라의 무시무시한 포효가 울려 퍼졌다.
+從卡露拉的口中，發出雄厚的吼叫。
+Karulau emits a terrifying scream.
+大気は震え、魂が凍り付くほどの壮絶な叫びだった。
+대기가 흔들리고 영혼이 얼어붙을 것 같은 엄청난 외침이었다.
+那是彷彿能夠震動大氣，凍結魂魄的震耳叫聲。
+It's fierce enough to shake through the \nair and chill one's soul.
+そして、それから始まったことは、戦いなどではない。
+그 후, 거기서 시작된 건 싸움이 아니었다.
+從那一刻開始的，並非是戰鬥。
+What happens next isn't even a fight.
+それは、一方的な虐殺だ。
+그건 일방적인 학살이었다.
+而是單方面的虐殺。
+It's a slaughter.
+首や胴体がまるで玩具のように回転しながら宙を跳ぶ者━━
+마치 장난감처럼 머리와 몸통이 분리되어 하늘을 나는 사람━━
+有人的腦袋和身體，像是玩具一樣邊旋轉邊在空中飛舞━━
+The first man's head spins through the\nair like a flying top--sliced clean\noff of his body.
+脳天から叩きつけられ身長が半分にも縮まった者━━
+정수리를 맞고 신체가 절반이 된 사람━━
+有人從頭頂被敲擊，身高變成原本的一半━━
+The next is slammed head-first into\nthe ground, crushed to half of his\noriginal height...
+[躰*からだ]があらぬ方向に折れ曲がる者━━
+몸이 엉뚱한 방향으로 꺾인 사람━━
+有人的身體往不可思議的方向彎曲━━
+Another has his limbs bent and\nstretched in impossible angles...
+首をねじ切られる者━━
+목을 비틀려 끊어져버린 사람━━
+有人的腦袋被切碎━━
+Yet another has his head twisted off...
+叩き付けられ、肉片となって飛散する者━━
+내동댕이쳐져 살점이 사방으로 튄 사람━━
+有人不斷被斬擊，肉片四處飛散━━
+One more is beaten into such a fine\npulp, that he turns to mist...
+我に返った者も腰を抜かしてバタバタと手足を動かすだけで、やがて頭を叩き割られ動かなくなった。
+제정신을 찾은 자도 기겁하여 손발만 움직이다 머리를 찍혔고, 곧 그마저도 움직일 수 없게 되었다.
+有人回過神，也嚇到腿軟，只能努力移動四肢，但最後頭部也受到斬擊，再也無法動彈。
+One man regains enough of his senses to\nfrantically flail his limbs around. A\nwell-placed stomp to the head ends that.
+悲惨なのは、やっとの思いで\n逃げて[し*・][ま*・][っ*・][た*・]者だ。
+더 비참한 건\n[도*ㆍ][망*ㆍ][가*ㆍ] [버*ㆍ][린*ㆍ] 사람들이다.
+悲慘的是，\n以為自己[已*・][經*・][逃*・][走*・]的人。
+Perhaps the most tragic one is\nthe man who almost manages to escape.
+逃げてゆく者は、投げつけられた石つぶてに[躰*からだ]を貫かれ、[襤褸*ボロ]布のように転がる。
+도망간 사람은 던져진 돌에 몸이 꿰뚫려 넝마처럼 굴렀다.
+逃走的人被飛舞的石頭貫穿身軀，像是破布般跌倒在地。
+While running away, his body is\npierced by a pebble that sends him\ntumbling forward like a ragdoll.
+木や岩陰に身を隠した者は、[そ*・][れ*・]ごと叩き斬られ地に転がる。
+나무나 바위 뒤에 숨은 자는 [통*ㆍ][째*ㆍ]로 꿰뚫려 쓰러졌다.
+藏在樹下或岩石後方的人，[連*・][同*・][遮*・][蔽*・][物*・]一起遭到斬擊倒在了地上。
+One man hides behind a tree until he's\nsmashed by a boulder. He, too, goes\ntumbling from the impact.
+大人しくしていれば一瞬で楽になれたものを、即死できなかった為に、その命が尽きるまで悲鳴を上げながらのたうち回る羽目となった。
+얌전히 있었으면 빨리 편해질 수 있었을 텐데 숨이 끊길 때까지 비명을 지르며 몸부림치는 꼴이 되었다.
+只要不反抗，一瞬間就能輕鬆了，由於無法立即死亡，在生命走到盡頭之前，他們只能發出呻吟，痛苦地在地上打滾。
+If they had just accepted a quick,\npainless death, they wouldn't have died\nin such horrendous and agonizing ways...
+そして‥‥
+그리고……
+然後……
+And then...
+最後には、今や物言わぬ骸となった[も*・][の*・]を\n率いていた男だけが残った。
+마지막으로 남겨진 건, 이제 시체가\n돼버린 [것*ㆍ][들*ㆍ]을 이끌던 남자였다.
+最後只剩下帶領著那些\n已經再也無法言語的[東*・][西*・]們的男人。
+The only one left is the leader of\nthese men--well, corpses now.
+カルラの[躰*からだ]を舐めるように見つめ、下卑た笑いを浴びせたあの男だ。
+카루라의 몸을 핥듯이 바라보며 상스럽게 비웃던 그 남자다.
+那個男的，就是下流地看著卡露拉的身體，發出卑劣笑聲的男人。
+He is the man who was laughing and\nvulgarly commenting on Karulau's body.
+あの尊大な態度が、今や腰を抜かしてへたり込み、失禁で地を濡らしている。
+그 거만했던 남자는 기겁하며 주저앉아 오줌을 지리고 있었다.
+原本態度高傲的他，現在也癱坐在地，因失禁而流出的液體染濕了地面。
+With his arrogant attitude shattered,\nhe sinks to the ground, soiled by his\nown cowardice.
+た、助け‥‥
+사, 살려……
+救、救我……
+H-Help...
+助け‥‥て‥‥‥‥
+살려주……세…………
+救救……我……
+Help... me...
+そう命乞いをして‥‥助けてあげた人がいまして？
+그렇게 목숨을 구걸한 사람을…… 살려줬던 적이 있나요?
+你有對……如此乞求的人出手相救嗎？
+Did you help any one of those people who \nbegged for their lives just like you're \ndoing now?
+ヒッ━━
+히익━━
+咿━━
+Ahh--
+もし、今までに見逃してあげた人がいたのなら‥‥助けてあげてもよろしくてよ。
+지금까지 한 명이라도 놓아준 사람이 있다면…… 살려드릴게요.
+如果，你以前有讓任何人逃走過……那我也可以放過你哦。
+If you allowed even one to escape... \nI may let you go.
+ひ‥‥ひ‥‥た…た‥‥助けた‥‥何人も見逃した。
+헉…… 헉…… 여, 여여여러 명…… 보내줬다고.
+咿……咿……救……我……救救我……我有放過一些人啊。
+*Pant* *pant*... S-Saved... let... some run away...
+‥‥‥‥‥‥
+………………
+……………………
+...
+ほ‥‥本当だ…だから助けてくれЦ
+저, 정말이야…… 그러니까 살려줘!!
+真……真的啦……所以放過我吧Ц
+I-It's... the truth... \nP-Please, help me!!
+そう…
+그래요…?
+這樣啊……
+I see...
+それなら見逃してあげる。
+그럼 살려줄게요.
+那就放過你吧。
+Then I shall allow you to escape \nas well.
+ひへЧ
+히익!?
+咿Ч
+Ehh!?
+どうしまして？　行ってもよろしくてよ。
+왜 그러시죠? 가도 괜찮아요.
+怎麼了？你可以走了。
+Hm? What could be the matter? \nYou may go.
+へ‥‥へへ‥‥
+헤……헤헤……
+嘿……嘿嘿……
+Heh... heheh...
+もしも━━
+정말로━━
+如果━━
+If...
+へひ？
+히익?
+咿？
+Heheh... huh!?
+もしも、あなたの言うことが本当なら‥‥きっと見逃してくれますわ。
+정말로 당신 말이 사실이면… 괜찮겠지요.
+如果你所說的毫無虛假……他們一定會放過你吧。
+If what you said was true... \nI'm sure they'll let you escape.
+囲まれているようだな。かなりの数だ…
+둘러싸였군. 상당한 수다…
+我們似乎被包圍了。人數相當多……
+It looks like he's surrounded.\nThere's a lot of them...
+あら、逃げませんの？
+어머, 안 도망가세요?
+哎呀，你不逃嗎？
+Oh, are you not making your escape?
+た、た、助け━━
+사, 사, 살려━━
+救、救救我━━
+H-H-Help--
+それとも‥‥今の言葉は嘘ですの。
+아니면…… 지금 한 말은 거짓인가요?
+還是說……你是騙人的呢。
+Or... were you lying?
+ヒ、ヒィィィィィィィィィィィィッЦ
+히, 히이이이이이이이이이!!
+咿，咿咿咿咿咿咿咿咿咿咿咿咿咿咿Ц
+A-Ahhhhhhhhh!!
+這うように逃げ出す男。
+기어가듯 도망치는 남자.
+男人跌跌撞撞地逃跑了。
+The man escapes by crawling.
+男の姿が茂みの中に消え‥‥やがて遠くから悲鳴と何度も肉を突き刺す音が聞こえ‥‥\n静かになった。
+남자가 수풀로 사라지고…… 이내 멀리서 비명과 함께 살이 찔리는 소리가 들리더니…\n조용해졌다.
+男人的姿態在樹叢中消失……最後，從遠方傳來慘叫聲，以及好幾次肉被穿刺的聲音……\n之後回歸寧靜。
+He disappears into the thicket, but \neventually, I hear the sound of \nscreaming. Then... it became silent.
+やがて、こちらを包囲するように男達が姿を現した。
+그리고는 포위하는 것처럼 남자들이 모습을 드러냈다.
+包圍了這裡的男人們終於現身了。
+A few men appear, surrounding us.
+そうか、[此奴*こいつ]等が例の叛軍のようだな
+그렇군, 이 녀석들이 그 반란군이군.
+原來如此，這些人似乎就是反叛軍。
+It seems they're the rebel army I've \nheard of.
+人垣が割れると、そこから一人の男が前に出てくる。
+무리 사이에서 한 남자가 앞으로 나왔다.
+人群一分為二，有個男人走向前。
+One man cuts through the crowd to stand \nbefore us.
+この男は…？
+이 남자는……?
+這個男的是……？
+This man is...?
+‥‥ん？　後ろにいるのは
+……응? 뒤에 있는 아이는…
+……嗯？站在他身後的……
+...Hmm? And the one behind him...
+男の後ろに、先程の少女が怖ず怖ずとした感じで立っている。
+남자의 뒤엔 아까 전 도망쳤던 소녀가 쭈뼛쭈뼛 서 있었다.
+剛剛遇見的少女怯生生地站在男人身後。
+Behind the man, the girl from earlier \nstands up timidly.
+少女はこちらの視線に気付くと、ペコペコと何度も頭を下げた。
+시선이 느껴졌는지 소녀는 꾸벅꾸벅 몇 번이나 머리를 숙였다.
+少女注意到了我的視線後便好幾次地點頭致意。
+The girl's eyes meet mine. She lowers \nher head a few times, perhaps as thanks.
+どうやら、あの子が呼んできてくれたようだな。こちらから探す手間が省けたが、\nさて…
+아무래도 저 애가 불러준 모양이군. 찾을 수고는 덜었지만,\n과연…
+看來是她把人帶過來的。這也讓我們省下找人的時間，\n那麼……
+Seems like that girl called them. She \nsaved me the trouble of having to do it.
+[こ*・][れ*・]をやったのは貴様等か。これだけの[輩*やから]を、たった二人でとはな…
+[이*ㆍ][걸*ㆍ] 한 건 네놈들인가. 이만한 수를 겨우 둘이서 죽이다니…
+[這*・][些*・]是你們做的嗎？只有兩人就把那麼多人……
+You were the ones who did this? For \nonly two people to handle this many...
+貴様等‥‥何者だ。
+네놈들은…… 뭐 하는 놈들이냐.
+你們是……何方神聖？
+Who...are you?
+男の射るような視線。
+남자의 찌르는 듯한 시선.
+男人的視線相當凌厲。
+The man's gaze is extremely piercing.
+同時に、その視線から隠れるよう、\nこちらの背にもたれ掛かってくるカルラ。
+동시에 그 시선에서 숨듯이\n내 등에 기대는 카루라.
+同時，卡露拉就像要躲開那道視線似的\n躲在了我的身後。
+At the same time, Karulau tries to \navoid his eyes by hiding behind me.
+カルラ？
+카루라?
+卡露拉？
+Karulau?
+‥‥‥‥
+…………
+…………
+...
+どうした、答えろ。
+왜 그러냐, 대답해라.
+怎麼了？快回答我。
+What's the matter? Answer me.
+ん？　この男…ギリヤギナ族…
+응? 이 남자는… 기리야기나족…
+嗯？這男的是……吉利亞基納族……
+Hmm? This man... He's from the \nGiriyagina tribe...
+まさか‥‥
+설마……
+莫非……
+Could he be...
+我々は只の旅の者ですよ。\nそう言う貴方は誰なんです。
+우린 일개 여행자일 뿐입니다.\n그러는 당신은 누구십니까?
+我們只是旅人。\n這麼說，你們又是誰呢？
+We are simple travelers. And, if I may ask, who are you to ask that?
+只の旅の者？　フッ、まぁいい…
+일개 여행자? 흥, 뭐, 됐다…
+只是旅人？哼，算了……
+Just travelers, huh? Hmph, fine...
+本来なら答える必要のない質問だが、\n汝等は我等が同胞を救ってくれた。\n名乗らねばならん。
+본래 대답할 의무는 없지만\n그대들은 내 동족을 구해주었다.\n이름을 대는 게 예의겠지.
+本來我沒有義務回答這個問題，\n但你們幫助了吾等的同胞。\n必須報上名字才行。
+It was a rhetorical question. You saved \none of ours, so I'll introduce \nmyself.
+俺の名は『デリホウライ』。\n叛軍『カルラゥアツゥレイ』を率いる者だ。
+내 이름은 『데리호우라이』.\n반란군 『카루라아트레이』를 이끄는 자다.
+我的名字是「迪利霍萊」。\n是反叛軍「卡露拉阿茨雷」的首領。
+My name is Derihourai. I'm the one \nleading the Karulawaturei rebellion.
+カルラゥアツゥレイ‥‥やはりな
+카루라아트레이…… 역시
+卡露拉阿茨雷……果然是這樣。
+Karulawaturei... I see.
+カルラに似た面影の男。同じギリヤギナ族だろうが、それだけではないだろう
+카루라와 닮은 남자. 같은 기리야기나족이지만 그뿐만이 아닐 테지
+這個男人與卡露拉相似，是同為吉利亞基納族的緣故嗎，不止如此吧。
+He looks a lot like Karulau. They're \nprobably from the same Giriyagina tribe, \nbut that may not be all there is.
+カルラのこれまでの行動。\nそして『カルラゥアツゥレイ』…
+카루라가 지금까지 했던 행동.\n그리고 『카루라아트레이』…
+卡露拉到目前為止的行動。\n以及「卡露拉阿茨雷」……
+Especially given Karulau's actions \nthus far. And "Karulawaturei"...
+そういう事か
+그런 거로군
+是這麼一回事啊。
+That's why...
+次はこちらの質問に答えてもらう。\n旅の者と言ったが、何故こんな処にいる。
+이번엔 이쪽 질문에 대답해라.\n여행자가 왜 이런 곳에 있지?
+接著回答我的問題。\n就算是旅人，為何來到這裡？
+Now, I'd like for you to answer this \nquestion... You said you're travelers, \nso why are you here?
+ここでは今、[戦*いくさ]が起こっていること、\n知らないとは言わせんぞ。
+여긴 지금 전쟁 중이라는 걸\n모르진 않겠지?
+這裡目前陷入戰爭，\n別說你們不曉得。
+There's a war going on. Don't tell me \nyou didn't know that.
+貴様等、何が目的だ。
+네놈들의 목적은 뭐냐.
+你們這些人有什麼目的？
+What's your purpose here?
+目的…か。そうだな‥‥
+목적이라… 그러면……
+目的嗎……是啊……
+Purpose...huh. I see...
+我々は[戦*いくさ]を生業としていましてね。\n戦いがあると聞き、貴方等にこの腕を買ってもらおうと思ったわけですよ。
+우리는 전쟁을 생업으로 삼고 있습니다.\n전쟁이 있다길래 저희를 고용해주셨으면 해서 찾아왔습니다.
+我們是靠戰爭維生的。\n聽說這裡有戰爭，想說這裡有工作的機會。
+We make our living off of battles. We \nheard there was a war, so we thought you \nmight want to utilize our services.
+どうです、この腕を買ってもらえませんか。
+어떻습니까, 고용해주시지 않겠습니까?
+怎麼樣，願意雇用我們嗎？
+So, what do you say? Would you like \nto hire us?
+[雇兵*アンクアム]というわけか。腕は確かのようだが、我等には必要のないものだ。
+[안쿠아무*용병]인가. 실력은 확실한 것 같지만 우리에겐 필요 없다.
+原來是[傭兵*安庫亞姆]嗎？你們的身手的確了得，然而吾等並不需要。
+So you're ankuamus, huh? Well, your\nskills are obvious, but we don't\nrequire any mercenaries.
+そうですか？　失礼ながら、あなた方は一人でも多くの兵が必要のはずですが。
+그렇습니까? 실례입니다만 당신들은 병사가 한 명이라도 더 필요한 상황일 텐데요.
+這樣嗎？我不客氣地問一下，你們應該很缺士兵吧？
+Is that so? Well, pardon me for saying \nthis, but I believe you'll need as \nmany warriors as you can get.
+おと～さん。
+아빠~
+爸爸～
+Daddyyy...
+ダメったら、\n待ってろって言われてたで━━あっЧ
+안 돼\n기다리라고 했잖━━ 앗!?
+不行，\n就說要等一下啦━━啊Ч
+You can't just run off like that!\nEspecially when I told you to wait--\n*Gasp!*
+‥‥‥‥
+…………
+…………
+...
+ふん、女子供を引き連れてか。\n少々腕は立つようだが邪魔になるだけだ。
+흥, 여자아이들을 데리고 말이냐.\n조금 실력이 받쳐주는 것 같지만 방해될 뿐이다.
+哼，你還帶著女人和小孩。\n就算身手還不錯，也只會妨礙我們罷了。
+You travel with women and children? \nThey seem to have some skill, but \nthey'll only get in the way.
+何でしたら、その女子供の腕を、\nお見せしましょうか？
+그럼 그 여자아이들의 실력을\n한번 보시겠습니까?
+那麼要不要看看\n這個小女孩的身手啊？
+If that's the case, then, do you want \nto see what they're capable of?
+なに？
+뭐?
+什麼？
+What?
+アルルゥ、やっていいぞ。
+아루루, 마음대로 해도 괜찮아.
+阿露露，可以做哦。
+Go ahead, Aruruu.
+ん～？
+응~?
+嗯～？
+Mm?
+あの、一体‥‥Ч
+저기, 대체……!?
+那個，到底……Ч
+Um, what is going on...!?
+ムックル。
+뭇클.
+穆庫爾。
+Mukkuru.
+『ヴォルルルルルル‥‥』
+『그르르르르르……』
+「嗷嚕嚕嚕嚕嚕嚕……」
+"Aroooooo..."
+ぬ…
+무슨…
+呣……
+Ngh...
+そして、この[娘*こ]は一流の[薬師*くすし]。
+그리고 이 아이는 일류 약사입니다.
+而她是一流的藥師哦。
+And this girl is an expert healer.
+え？　え？
+네? 네?
+咦？咦？
+H-Huh!?
+他にもエヴェンクルガの[武人*もののふ]や、オンカミヤリューの術士なども用意しております。
+그 외에도 에벤크루가의 무인이나 온카미야류의 술사가 있습니다.
+另外還有艾文庫魯加族的武士，以及歐卡米亞琉族的術士哦。
+We also have an Evenkurugan mononofu \nand an Onkamiyaryu mage at the ready.
+どれも一騎当千の強者ばかり。
+한 사람 한 사람이 일기당천의 강자.
+每位都是能以一當百的強者。
+Each one of them is a mighty warrior\nwith the strength of a thousand men.
+[如何*いかが]です。これでも役に立たない女子供ですかな？
+어떠십니까. 이래도 도움 안 되는 여자아이들입니까?
+怎麼樣？這樣還是派不上用場的女人和小孩嗎？
+What do you think? I wonder if you still \nbelieve that women and children will \nget in the way?
+‥‥‥‥‥‥
+………………
+……………………
+...
+ふ‥‥ん、成程な。\n確かに少しは役立つかもしれん。
+흥…… 과연.\n확실히 조금은 도움이 되겠군.
+哼……嗯，原來如此。\n看來似乎能稍微派上用場。
+Hmph, I see. I suppose they might be \nslightly more useful than I assumed.
+だが、要らぬ世話よ。これは我々の戦い。何者かも知れぬ[輩*やから]の出る幕ではない。
+하지만 필요 없다. 이건 우리의 전쟁. 정체도 모르는 놈들이 나설 자리가 아니야.
+但是，不需要。這是我們的戰爭。什麼都不曉得的傢伙，沒有出場的餘地。
+But this matter doesn't concern you. \nIt's our fight, and it's no business of \nstrangers like you.
+いずれここはいくさ場となる。即刻この場から離れることだな。
+머지않아 여기는 전쟁터가 될 거다. 서둘러 여길 떠나는 게 좋아.
+這裡總有一天會變成戰場。你們盡快離開吧。
+In any case, this will become a \nbattlefield. Leave immediately.
+行くぞ。
+가자.
+走了。
+Let's go.
+デリホウライの後を男達が続いて行く。
+데리호우라이의 뒤를 남자들이 쫓아간다.
+男人們跟在迪利霍萊身後離開了。
+The men follow Derihourai and leave.
+‥‥‥‥
+…………
+…………
+...
+最後にあの少女がこちらに何度も頭を下げると、その後を追いかけていった。
+마지막으로 그 소녀가 몇 번이고 머리를 숙이더니 재빨리 뒤를 쫓았다.
+最後，那位少女好幾次向我們點頭致意，追在他們身後離開了。
+Finally, the girl bows her head a few \nmore times and hurries after the men.
+‥‥‥‥‥‥
+………………
+……………………
+...
+だ、そうだ。どうするカルラゥアツゥレイ、お前の弟は礼も言わずに余計なお世話だと言って去ってったぞ。
+그렇다는데. 어쩔 거야, 카루라아트레이. 네 동생은 감사는커녕 쓸데없는 참견이라 하는데.
+就是這樣。怎麼辦？卡露拉阿茨雷，妳的弟弟連道謝都不說，只說聲多管閒事就走了哦。
+Well then. Karulawaturei, what now? Your \nyounger brother left without saying \nthanks and told us to mind our business.
+弟？　カルラさんの？
+동생? 카루라 씨의?
+弟弟？卡露拉小姐的？
+Younger brother? Whose younger brother? \nKarulau's?
+‥‥‥‥
+…………
+…………
+...
+否定しないか。\nまぁいい、私にとってカルラはカルラだ。それ以上のことを詮索する気はない。
+부정은 안 하는군.\n뭐, 됐어. 내게 있어 카루라는 카루라다. 그 이상 파고들 생각은 없어.
+妳不否定嗎？\n算了，對我而言卡露拉就是卡露拉。我沒有繼續深入的意思。
+So you're not denying it? I mean, it's \nfine. To me, Karulau is Karulau. I \ndon't intend to ask more questions.
+だが、これからどうする━━ん？
+하지만 이제 어쩔 거지━━ 응?
+不過妳接下來要怎麼辦━━嗯？
+So what will we do now... Hmm?
+突然、繁みを掻き分け初老の男が姿を現すと、カルラの前で深々と土下座した。
+갑자기 초로의 남자가 수풀을 헤치고 나오더니 카루라 앞에 엎드려 머리를 조아린다.
+有個年老的男性突然從草叢裡走出，來到眼前，並在卡露拉面前深深跪下。
+Suddenly, an elderly man makes his way \nthrough the bushes, appears before us, \nand throws himself in front of Karulau.
+この男‥‥確かデリホウライの隣に居た
+이 남자는…… 분명 데리호우라이 옆에 있었지
+這個男人……剛剛確實站在迪利霍萊的身旁。
+This man... I'm sure he was with \nDerihourai...
+‥‥お久しぶりですわね、カトゥマウ。
+……오랜만이네요, 카투마우.
+……好久不見了，卡托瑪烏。
+...It's been a while, Katumau.
+その言葉に、カトゥマウと呼ばれた男は\nハラハラと涙を溢れさせる。
+그 말에 카투마우라 불린 남자는\n뚝뚝 눈물을 흘렸다.
+這句話讓叫做卡托瑪烏的男人\n淚流滿面。
+In response to Karulau's words, the man \nnamed Katumau begins crying.
+やはりカルラゥアツゥレイ様に御座いましたか。お久しゅう…お久しゅう御座いますЦ
+역시 카루라아트레이 님이셨군요. 그간… 안녕하셨습니까!!
+果真是卡露拉阿茨雷大人啊。好久不見……真是好久不見了Ц
+So it really IS you, Lady Karulawaturei! \nIt has certainly been...such a long \ntime!
+約束を守ってくれましたのね。あの子をあそこまで‥‥本当に感謝していますわ。
+약속을 지켜주셨군요. 저 아이를 저만큼이나 키워주셔서…… 정말 감사드려요.
+你遵守約定了呢。將他輔佐到這裡……真的很感謝你。
+You've done well in keeping your \npromise. Doing so much for that boy... \nI am truly grateful.
+も、勿体ない…勿体ないお言葉‥‥\nありがたき御言葉に御座います。
+황송한…… 황송한 말씀……\n너무나도 과분한 말씀이옵니다.
+惶、惶恐……這句話令人惶恐至極……\n感謝您的讚賞。
+I-I am unworthy of your words... \nbut I am very grateful for them.
+カルラゥアツゥレイ様さえいらっしゃれば、恐るるものはありませぬ。\nさぁ、デリホウライ様にもこのことを━━
+카루라아트레이 님이 계시면 무서울 게 없습니다. 자, 데리호우라이 님에게도 이 사실을━━
+只要卡露拉阿茨雷大人在，我們就無所畏懼了。\n好了，我也得告訴迪利霍萊大人━━
+We have nothing to fear now that you \nare here, Lady Karulawaturei. Come, \nwe must tell Master Derihourai--
+その言葉に、静かに首を振るカルラ。
+그 말에 조용히 고개를 젓는 카루라.
+卡露拉聽到這句話後，只是靜靜地搖頭。
+Karulau silently shakes her head.
+な、何故に御座いますか。\n今こそカルラゥアツゥレイ様のお力が必要なのです！
+어, 어째서입니까.\n지금이야말로 카루라아트레이 님의 조력이 필요합니다!
+這、這是為什麼呢？\n我們現在相當需要卡露拉阿茨雷大人的力量啊！
+Wh-Why not!? We have need of you!
+もうご存じと思いますが、このままでは我等の敗北は必至。
+이미 알고 계시리라 생각합니다만 이대로면 저희의 패배가 확실합니다.
+我想您應該很清楚，這樣下去吾等必定會敗北。
+You must already know, but our defeat \nis imminent at our rate.
+口にはなさいませんが、この状況にデリホウライ様は焦っておられます。ですが我等が不甲斐ないばかりにままならず‥‥
+데리호우라이 님도 말은 안 하시지만 조급해하고 계십니다. 하지만 저희의 힘이 부족한 탓에……
+雖然沒說出口，迪利霍萊大人對於這情況也相當著急。然而，因為吾等沒有用處……
+I do not mean to speak of this, but \nMaster Derihourai is anxious about the \nsituation and we have been of no help...
+今の私は、ただ一人の男の為に存在する、カルラという名の女。
+지금의 저는, 단 한 명의 남자를 위해 존재하는 카루라란 이름의 여자.
+我現在是卡露拉，只為一個男人存在的女人。
+As of now, I am a woman named Karulau. \nI exist for the sake of a single man.
+もう、カルラゥアツゥレイは存在しませんの。
+이제 카루라아트레이란 사람은 없어요.
+卡露拉阿茨雷已經不在了。
+Karulawaturei no longer exists.
+そんな…
+그럴 수가…
+怎麼會……
+That cannot be...
+『カトゥマウ、大変だЦ　デリホウライ様が進撃を開始なさると、みんなを━━』
+『카투마우, 큰일이다!! 데리호우라이 님이 진격을 하시겠다고 모두를━━』
+「卡托瑪烏，糟了Ц迪利霍萊大人開始進軍了，將大家━━」
+"Katumau, it's awful! When Derihourai \nstarted advancing, everyone--"
+行かれたのか！\nいかん、何故お止めせなんだ！
+데리고 나선 건가!\n안 돼, 왜 막지 않은 거냐!
+他去了嗎！\n糟糕，為什麼沒有阻止他！
+He has gone already!? No! \nWhy did you not stop him!?
+お、俺にデリホウライ様を止められる\nものか。
+내, 내가 데리호우라이 님을\n막을 수 있을 리가.
+我、我怎麼可能阻止\n迪利霍萊大人啊。
+Y-You think I can stop Derihourai!?
+とにかくデリホウライ様を追うのだ。\n何としても、お止めせねば。
+아무튼 데리호우라이 님을 쫓아간다.\n어떻게 해서든 막아야 해.
+總之趕緊追上迪利霍萊大人。\n無論如何都得阻止他。
+W-We must go after Master Derihourai! \nWe must stop him at all costs!!
+‥‥‥‥
+…………
+…………
+...
+カルラゥアツゥレイ様、何処へ━━
+카루라아트레이 님, 어디로━━
+卡露拉阿茨雷大人，您要去哪裡━━
+Lady Karulawaturei, where are you--
+散歩ですわ。
+산책이에요.
+散步。
+Going on a walk.
+あるじ様、散歩に行くのでしたら、\n私もお供いたしますわ。
+주인님, 산책하시겠다면\n저도 동행하겠어요.
+主人，您想去散步的話，\n請讓我一道陪同哦。
+Master, if you're going on a walk, \nlet me accompany you.
+そう言いながら、こちらの[躰*からだ]を\n[引きずるようにして*・・・・・・・・・]歩き出す。
+그렇게 말하면서 내 몸을\n[질*ㆍ][질*ㆍ] [끌*ㆍ][며*ㆍ] 걷기 시작했다.
+她這麼說著，\n便[強*・][硬*・][地*・][拉*・][著*・]我走了。
+As she says that, she walks out while\ndragging me along with her.
+やれやれ、こういうのは素直でない…と言うのか、さて
+이것 참, 이런 데선 솔직하지 못하다니까… 그럼 어디
+真是的，該說她在這時就是不坦率吧。
+Man, is this what's called being... \ncunning? Hmm...
