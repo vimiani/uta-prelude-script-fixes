@@ -1089,7 +1089,7 @@ U-Um... You can't just go and suddenly \ngrab a girl's tail.
 アチチ…\nいや、だから『少しいいか』と断ったんだが。
 아야야…\n아니, 그래서 『잠깐 괜찮을까』라고 양해를 구했잖아.
 好燙燙……\n不，所以我不是請妳「暫停一下」了嗎。
-Hot, hot, hot... I mean, that was why I asked you if you had a minute.
+Hot, hot, hot... I mean, that was why I asked you\nif you had a minute.
 そんなこと‥‥断ったって駄目ですよ。
 그런 건…… 양해를 구하더라도 하면 안 돼요.
 這種事……就算有先講也是不行的。
