@@ -1,7 +1,7 @@
 # uta-prelude-script-fixes
 This is a patch to help fix the various mistakes and inconsistencies with Utawarerumono: Prelude to the Fallen on steam. This includes translation mistakes and making the terminology more consistent the Mask translations. Some lines were also changed to better flow well in context although this was minimal. Major changes and rewrites are listed in changes.txt but there were a number of smaller fixes that are not mentioned as well.
 
-Some of the major fixes to conistency are:
+Some of the major fixes to consistency are:
 
 -Samurai general > Warmaster
 
