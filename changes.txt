@@ -354,6 +354,7 @@ It was feared that she had become \ntoo strong, and she was sent to a \nbattlefi
 00_04_03 tenth choice
 
 00_04_07 tenth choice
+Apparently, I wreaked some kind of \nhavoc. In the morning, we were all lying \non the roof... I had my mask on... > Apparently, I wreaked some kind of \nhavoc. In the morning, we were all lying \non the roof... and we were naked...
 
 04_04_01 tenth choice
 
